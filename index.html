@@ -1,0 +1,951 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Madeline M. Dovi · Communications & Editorial Opportunities</title>
+<meta name="description" content="Curated communications, copywriting, PR, journalism and editorial job opportunities for Madeline Dovi — Buffalo/WNY, NYC metro, and fully remote roles with healthcare benefits. Refreshed daily." />
+<link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..900&family=Inter:wght@300..800&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --ink: #1a1410;
+    --ink-soft: #4a3f37;
+    --paper: #fbf7f1;
+    --paper-2: #f3ecdf;
+    --accent: #8a2e2e;          /* newsprint red */
+    --accent-2: #c8964a;        /* manuscript gold */
+    --line: #d8cdb8;
+    --card: #ffffff;
+    --good: #2f6b3d;
+    --warn: #b06b1a;
+    --muted: #786a5c;
+    --chip-bg: #efe6d4;
+    --chip-ink: #4a3f37;
+    --serif: 'Fraunces', 'Playfair Display', Georgia, serif;
+    --sans: 'Inter', -apple-system, system-ui, sans-serif;
+    --shadow: 0 1px 0 rgba(26,20,16,.06), 0 8px 24px -12px rgba(26,20,16,.18);
+  }
+  *,*::before,*::after { box-sizing: border-box; }
+  html,body { margin:0; padding:0; }
+  body {
+    font-family: var(--sans);
+    color: var(--ink);
+    background: var(--paper);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* ---------- MASTHEAD ---------- */
+  .masthead {
+    background: var(--paper-2);
+    border-bottom: 3px double var(--ink);
+    padding: 28px 24px 18px;
+  }
+  .masthead-inner {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 16px;
+    align-items: end;
+  }
+  .nameplate {
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: clamp(34px, 5vw, 56px);
+    line-height: 1.02;
+    letter-spacing: -0.01em;
+    margin: 0;
+  }
+  .nameplate .first { color: var(--ink); }
+  .nameplate .last { color: var(--accent); font-style: italic; }
+  .deck {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: clamp(15px, 1.5vw, 18px);
+    color: var(--ink-soft);
+    margin-top: 6px;
+    max-width: 720px;
+  }
+  .dateline {
+    text-align: right;
+    font-size: 12px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 600;
+  }
+  .dateline .vol { color: var(--accent); }
+  .tagline {
+    font-family: var(--serif);
+    font-style: italic;
+    color: var(--accent);
+    font-size: 14px;
+    margin-top: 4px;
+  }
+
+  /* ---------- LAYOUT ---------- */
+  .container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 24px;
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    gap: 28px;
+  }
+  @media (max-width: 1000px) {
+    .container { grid-template-columns: 1fr; }
+    .sidebar { order: 2; }
+  }
+
+  /* ---------- SIDEBAR ---------- */
+  .sidebar { position: sticky; top: 20px; align-self: start; }
+  @media (max-width: 1000px) { .sidebar { position: static; } }
+  .panel {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 18px;
+    margin-bottom: 18px;
+    box-shadow: var(--shadow);
+  }
+  .panel h3 {
+    font-family: var(--serif);
+    font-size: 18px;
+    margin: 0 0 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--line);
+  }
+  .panel .field { margin-bottom: 14px; }
+  .panel label {
+    display: block;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+  .panel input[type="text"],
+  .panel select {
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: var(--paper);
+    font-family: inherit;
+    font-size: 14px;
+    color: var(--ink);
+  }
+  .panel input[type="text"]:focus,
+  .panel select:focus { outline: 2px solid var(--accent-2); outline-offset: 1px; }
+  .seg {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .seg button {
+    flex: 1 1 auto;
+    padding: 6px 10px;
+    font-size: 12px;
+    border: 1px solid var(--line);
+    background: var(--paper);
+    color: var(--ink);
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: inherit;
+    font-weight: 500;
+    transition: all .15s;
+  }
+  .seg button:hover { background: var(--chip-bg); }
+  .seg button.active {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+  }
+  .slider-wrap { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--ink-soft); }
+  .slider-wrap input[type="range"] { flex: 1; accent-color: var(--accent); }
+
+  /* writing portfolio */
+  .portfolio-links a {
+    display: block;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--line);
+    font-size: 13px;
+    color: var(--ink);
+  }
+  .portfolio-links a:last-child { border-bottom: none; }
+  .portfolio-links a:hover { color: var(--accent); }
+  .portfolio-links .ico { display: inline-block; width: 18px; color: var(--accent); font-weight: 700; font-family: var(--serif); }
+
+  /* ---------- MAIN ---------- */
+  .summary-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  @media (max-width: 700px) { .summary-row { grid-template-columns: repeat(2, 1fr); } }
+  .stat {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 14px 16px;
+    box-shadow: var(--shadow);
+  }
+  .stat .n {
+    font-family: var(--serif);
+    font-size: 32px;
+    font-weight: 700;
+    color: var(--ink);
+    line-height: 1;
+  }
+  .stat .l {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    margin-top: 6px;
+    font-weight: 600;
+  }
+  .stat.accent .n { color: var(--accent); }
+
+  .section-rule {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 6px 0 14px;
+  }
+  .section-rule h2 {
+    font-family: var(--serif);
+    font-size: 22px;
+    margin: 0;
+    font-weight: 700;
+  }
+  .result-count {
+    font-size: 12px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 600;
+  }
+
+  /* ---------- JOB CARD ---------- */
+  .jobs { display: flex; flex-direction: column; gap: 14px; }
+  .job {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-left: 4px solid var(--accent);
+    border-radius: 6px;
+    padding: 18px 20px;
+    box-shadow: var(--shadow);
+    transition: transform .12s, box-shadow .12s;
+  }
+  .job:hover { transform: translateY(-1px); box-shadow: 0 1px 0 rgba(26,20,16,.06), 0 12px 32px -12px rgba(26,20,16,.22); }
+  .job.score-90 { border-left-color: var(--good); }
+  .job.score-75 { border-left-color: var(--accent-2); }
+  .job.applied { background: linear-gradient(0deg, rgba(47,107,61,.04), rgba(47,107,61,.04)), var(--card); }
+
+  .job-head {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 14px;
+    align-items: start;
+    margin-bottom: 8px;
+  }
+  .job-title {
+    font-family: var(--serif);
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 1.2;
+    color: var(--ink);
+  }
+  .job-title a { color: inherit; }
+  .job-title a:hover { color: var(--accent); }
+  .job-meta {
+    font-size: 14px;
+    color: var(--ink-soft);
+    margin-top: 4px;
+  }
+  .job-meta .company { font-weight: 600; color: var(--ink); }
+  .job-meta .sep { color: var(--line); margin: 0 6px; }
+
+  .score-badge {
+    text-align: center;
+    background: var(--paper-2);
+    border: 1px solid var(--line);
+    border-radius: 50px;
+    padding: 6px 12px;
+    min-width: 64px;
+  }
+  .score-badge .num {
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: 22px;
+    color: var(--ink);
+    line-height: 1;
+  }
+  .score-badge .lbl {
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    font-weight: 700;
+    margin-top: 2px;
+  }
+  .job.score-90 .score-badge { background: rgba(47,107,61,.08); border-color: rgba(47,107,61,.3); }
+  .job.score-90 .score-badge .num { color: var(--good); }
+
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 10px 0;
+  }
+  .chip {
+    font-size: 11px;
+    padding: 3px 9px;
+    border-radius: 50px;
+    background: var(--chip-bg);
+    color: var(--chip-ink);
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+  .chip.loc { background: #e3eef0; color: #2c5566; }
+  .chip.remote { background: #e8e3f0; color: #4a3a6b; }
+  .chip.salary { background: #efe6d4; color: #6b5320; }
+  .chip.source { background: #f0e3e3; color: #6b2c2c; }
+  .chip.posted { background: transparent; color: var(--muted); padding-left: 0; }
+
+  .snippet {
+    font-size: 14px;
+    color: var(--ink-soft);
+    margin: 8px 0 10px;
+  }
+
+  .reasons {
+    background: var(--paper);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 10px 12px;
+    margin: 10px 0;
+    font-size: 13px;
+  }
+  .reasons .lbl {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--muted);
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+  .reasons ul { margin: 0; padding-left: 16px; }
+  .reasons li { color: var(--ink-soft); }
+
+  .opener {
+    background: linear-gradient(0deg, rgba(138,46,46,.04), rgba(138,46,46,.04));
+    border-left: 3px solid var(--accent);
+    padding: 12px 14px;
+    margin: 10px 0;
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 14.5px;
+    color: var(--ink);
+    line-height: 1.6;
+    border-radius: 0 4px 4px 0;
+  }
+  .opener .lbl {
+    font-family: var(--sans);
+    font-style: normal;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    font-weight: 700;
+    margin-bottom: 4px;
+    display: block;
+  }
+  .opener-toggle {
+    background: none;
+    border: none;
+    color: var(--accent);
+    font-size: 12px;
+    cursor: pointer;
+    padding: 0;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-family: inherit;
+  }
+  .opener-toggle:hover { text-decoration: underline; }
+  .opener-hidden { display: none; }
+
+  .job-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid var(--line);
+  }
+  .btn {
+    font-family: inherit;
+    font-size: 12.5px;
+    font-weight: 600;
+    padding: 7px 14px;
+    border-radius: 4px;
+    border: 1px solid var(--line);
+    background: var(--card);
+    color: var(--ink);
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: all .12s;
+  }
+  .btn:hover { background: var(--paper-2); }
+  .btn-primary {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: white;
+  }
+  .btn-primary:hover { background: #6e2424; border-color: #6e2424; color: white; }
+
+  .status-select {
+    font-family: inherit;
+    font-size: 12.5px;
+    padding: 7px 8px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: var(--card);
+    color: var(--ink);
+    font-weight: 600;
+  }
+  .status-saved { background: #efe6d4; }
+  .status-applied { background: #e8f0e3; color: var(--good); }
+  .status-interview { background: #e3eef0; color: #2c5566; }
+  .status-offer { background: #d4efd4; color: var(--good); }
+  .status-rejected { background: #f0e3e3; color: #6b2c2c; }
+
+  .notes-area {
+    width: 100%;
+    margin-top: 8px;
+    padding: 8px 10px;
+    font-family: inherit;
+    font-size: 13px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: var(--paper);
+    color: var(--ink);
+    resize: vertical;
+    min-height: 60px;
+    display: none;
+  }
+  .notes-area.open { display: block; }
+
+  /* ---------- FOOTER ---------- */
+  .footer {
+    max-width: 1280px;
+    margin: 30px auto;
+    padding: 20px 24px;
+    text-align: center;
+    font-size: 12px;
+    color: var(--muted);
+    border-top: 1px solid var(--line);
+  }
+  .footer p { margin: 4px 0; }
+  .footer .ornament {
+    font-family: var(--serif);
+    color: var(--accent);
+    margin: 0 8px;
+  }
+
+  /* utility */
+  .hidden { display: none !important; }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div>
+      <h1 class="nameplate"><span class="first">Madeline M.</span> <span class="last">Dovi</span></h1>
+      <p class="deck">A curated dispatch of communications, copywriting, public relations, and editorial opportunities — Buffalo, New York, and remote — refreshed each morning.</p>
+      <p class="tagline">"Seek, speak and write the truth."</p>
+    </div>
+    <div class="dateline">
+      <div class="vol">Vol. I · No. 1</div>
+      <div id="lastUpdated">Updated —</div>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+
+  <!-- ============== SIDEBAR ============== -->
+  <aside class="sidebar">
+
+    <div class="panel">
+      <h3>Filter the Wire</h3>
+
+      <div class="field">
+        <label>Search</label>
+        <input type="text" id="search" placeholder="Job, company, skill…" />
+      </div>
+
+      <div class="field">
+        <label>Region</label>
+        <div class="seg" id="regionSeg">
+          <button class="active" data-region="all">All</button>
+          <button data-region="wny">Buffalo / WNY</button>
+          <button data-region="nyc">NYC Metro</button>
+          <button data-region="remote">Remote</button>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Work Mode</label>
+        <div class="seg" id="modeSeg">
+          <button class="active" data-mode="all">All</button>
+          <button data-mode="On-site">On-site</button>
+          <button data-mode="Hybrid">Hybrid</button>
+          <button data-mode="Remote">Remote</button>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Minimum Salary <span id="salaryVal" style="color:var(--accent);font-weight:600;">$0</span></label>
+        <div class="slider-wrap">
+          <span>$0</span>
+          <input type="range" id="salaryRange" min="0" max="150000" step="5000" value="0" />
+          <span>$150K+</span>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Minimum Match Score <span id="scoreVal" style="color:var(--accent);font-weight:600;">0</span></label>
+        <div class="slider-wrap">
+          <span>0</span>
+          <input type="range" id="scoreRange" min="0" max="100" step="5" value="0" />
+          <span>100</span>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Application Status</label>
+        <select id="statusFilter">
+          <option value="all">All Statuses</option>
+          <option value="new">New / Unviewed</option>
+          <option value="saved">Saved</option>
+          <option value="applied">Applied</option>
+          <option value="interview">Interview</option>
+          <option value="offer">Offer</option>
+          <option value="rejected">Rejected</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label>Sort By</label>
+        <select id="sortBy">
+          <option value="match">Match Score (high → low)</option>
+          <option value="posted">Posted Date (new → old)</option>
+          <option value="salary_max">Top Salary (high → low)</option>
+          <option value="company">Company (A → Z)</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h3>Maddie's Bylines</h3>
+      <div class="portfolio-links">
+        <a href="https://www.linkedin.com/in/madeline-m-dovi-3051a6203/" target="_blank" rel="noopener"><span class="ico">in</span> LinkedIn Profile</a>
+        <a href="https://medium.com/the-riff" target="_blank" rel="noopener"><span class="ico">¶</span> The Riff (Medium)</a>
+        <a href="https://substack.com/@madelinemdovi" target="_blank" rel="noopener"><span class="ico">§</span> Substack</a>
+        <a href="https://www.buffalo.edu/ubnow.html" target="_blank" rel="noopener"><span class="ico">∎</span> UBNow Bylines</a>
+        <a href="mailto:madelinedovi21@gmail.com"><span class="ico">@</span> madelinedovi21@gmail.com</a>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h3>Application Tracker</h3>
+      <div id="trackerStats" style="font-size:13px;color:var(--ink-soft);">
+        <div style="display:flex;justify-content:space-between;padding:4px 0;border-bottom:1px solid var(--line);"><span>Saved</span><span id="cSaved">0</span></div>
+        <div style="display:flex;justify-content:space-between;padding:4px 0;border-bottom:1px solid var(--line);"><span>Applied</span><span id="cApplied">0</span></div>
+        <div style="display:flex;justify-content:space-between;padding:4px 0;border-bottom:1px solid var(--line);"><span>Interview</span><span id="cInterview">0</span></div>
+        <div style="display:flex;justify-content:space-between;padding:4px 0;border-bottom:1px solid var(--line);"><span>Offer</span><span id="cOffer">0</span></div>
+        <div style="display:flex;justify-content:space-between;padding:4px 0;"><span>Rejected</span><span id="cRejected">0</span></div>
+      </div>
+      <button id="resetTracker" class="btn" style="margin-top:10px;width:100%;font-size:11px;">Reset tracker (this device)</button>
+    </div>
+
+  </aside>
+
+  <!-- ============== MAIN ============== -->
+  <main>
+
+    <div class="summary-row">
+      <div class="stat accent">
+        <div class="n" id="statTotal">0</div>
+        <div class="l">Active Openings</div>
+      </div>
+      <div class="stat">
+        <div class="n" id="statWny">0</div>
+        <div class="l">Buffalo / WNY</div>
+      </div>
+      <div class="stat">
+        <div class="n" id="statNyc">0</div>
+        <div class="l">NYC Metro</div>
+      </div>
+      <div class="stat">
+        <div class="n" id="statRemote">0</div>
+        <div class="l">Remote</div>
+      </div>
+    </div>
+
+    <div class="section-rule">
+      <h2 id="resultsTitle">All Openings</h2>
+      <div class="result-count" id="resultsCount">0 jobs</div>
+    </div>
+
+    <div class="jobs" id="jobsList">
+      <!-- jobs render here -->
+    </div>
+
+    <div id="emptyState" class="panel hidden" style="text-align:center;padding:40px;">
+      <h3 style="border:none;font-size:20px;">No matches in today's wire</h3>
+      <p style="color:var(--muted);font-size:14px;">Try widening the filters — clear region, drop the minimum score or salary, and the openings will come back.</p>
+    </div>
+
+  </main>
+</div>
+
+<footer class="footer">
+  <p><span class="ornament">❦</span> Built with Perplexity Computer for Madeline Dovi — refreshed daily at 7 a.m. Eastern <span class="ornament">❦</span></p>
+  <p style="margin-top:6px;">Curated by Brian Graham · <a href="https://github.com/bgraham14072/dovi-jobs" target="_blank" rel="noopener">View on GitHub</a></p>
+</footer>
+
+<script>
+let JOBS = [];
+let TRACKER = {};
+const STORAGE_KEY = 'dovi-jobs-tracker-v1';
+
+function loadTracker() {
+  try { TRACKER = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
+  catch { TRACKER = {}; }
+}
+function saveTracker() { localStorage.setItem(STORAGE_KEY, JSON.stringify(TRACKER)); }
+function trackJob(id) {
+  if (!TRACKER[id]) TRACKER[id] = { status: 'new', notes: '' };
+  return TRACKER[id];
+}
+
+function fmtDate(iso) {
+  try {
+    const d = new Date(iso);
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  } catch { return iso || ''; }
+}
+function daysAgo(iso) {
+  try {
+    const d = new Date(iso);
+    const days = Math.floor((Date.now() - d.getTime()) / 86400000);
+    if (days <= 0) return 'Today';
+    if (days === 1) return 'Yesterday';
+    if (days < 7) return days + 'd ago';
+    if (days < 30) return Math.floor(days/7) + 'w ago';
+    return Math.floor(days/30) + 'mo ago';
+  } catch { return ''; }
+}
+
+function jobMatchesRegion(j, r) {
+  if (r === 'all') return true;
+  if (r === 'wny') return j.is_wny;
+  if (r === 'nyc') return j.is_nyc;
+  if (r === 'remote') return j.is_remote;
+  return true;
+}
+
+function jobPassesFilters(j) {
+  const region = document.querySelector('#regionSeg .active').dataset.region;
+  const mode = document.querySelector('#modeSeg .active').dataset.mode;
+  const search = document.getElementById('search').value.toLowerCase().trim();
+  const minSal = parseInt(document.getElementById('salaryRange').value, 10);
+  const minScore = parseInt(document.getElementById('scoreRange').value, 10);
+  const statusF = document.getElementById('statusFilter').value;
+
+  if (!jobMatchesRegion(j, region)) return false;
+  if (mode !== 'all' && j.location_type !== mode) return false;
+  if (minScore > 0 && (j.match_score || 0) < minScore) return false;
+  if (minSal > 0) {
+    const top = j.salary_max || j.salary_min || 0;
+    if (top < minSal) return false;
+  }
+  if (search) {
+    const blob = (j.title + ' ' + j.company + ' ' + j.location + ' ' +
+                  (j.key_skills || []).join(' ') + ' ' + (j.description_snippet || '')).toLowerCase();
+    if (!blob.includes(search)) return false;
+  }
+  const t = trackJob(j.id);
+  if (statusF !== 'all' && t.status !== statusF) return false;
+  return true;
+}
+
+function sortJobs(jobs) {
+  const sort = document.getElementById('sortBy').value;
+  const j = [...jobs];
+  if (sort === 'match') j.sort((a, b) => (b.match_score || 0) - (a.match_score || 0));
+  else if (sort === 'posted') j.sort((a, b) => (b.posted_date || '').localeCompare(a.posted_date || ''));
+  else if (sort === 'salary_max') j.sort((a, b) => (b.salary_max || b.salary_min || 0) - (a.salary_max || a.salary_min || 0));
+  else if (sort === 'company') j.sort((a, b) => (a.company || '').localeCompare(b.company || ''));
+  return j;
+}
+
+function scoreClass(s) {
+  if (s >= 90) return 'score-90';
+  if (s >= 75) return 'score-75';
+  return '';
+}
+
+function regionLabel(j) {
+  if (j.is_wny) return 'Buffalo / WNY';
+  if (j.is_nyc) return 'NYC Metro';
+  if (j.is_remote) return 'Remote';
+  return j.location;
+}
+
+function escapeHtml(s) {
+  if (s == null) return '';
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function renderJob(j) {
+  const t = trackJob(j.id);
+  const cls = scoreClass(j.match_score || 0);
+  const appliedCls = (t.status === 'applied' || t.status === 'interview' || t.status === 'offer') ? 'applied' : '';
+  const modeChip = j.location_type === 'Remote' ? 'remote' : 'loc';
+  const reasonsHtml = (j.match_reasons || []).map(r => `<li>${escapeHtml(r)}</li>`).join('');
+  const skillsHtml = (j.key_skills || []).slice(0, 8).map(s => `<span class="chip">${escapeHtml(s)}</span>`).join('');
+  const benefitsHtml = (j.benefits_highlights || []).slice(0, 4).map(b => `<span class="chip" style="background:#e8f0e3;color:#2f6b3d;">${escapeHtml(b)}</span>`).join('');
+  const opener = j.cover_letter_opener || '';
+
+  return `
+  <article class="job ${cls} ${appliedCls}" data-id="${escapeHtml(j.id)}">
+    <div class="job-head">
+      <div>
+        <h3 class="job-title"><a href="${escapeHtml(j.url)}" target="_blank" rel="noopener">${escapeHtml(j.title)}</a></h3>
+        <div class="job-meta">
+          <span class="company">${escapeHtml(j.company)}</span>
+          <span class="sep">·</span>
+          <span>${escapeHtml(j.location)}</span>
+          <span class="sep">·</span>
+          <span>${escapeHtml(daysAgo(j.posted_date))}</span>
+        </div>
+      </div>
+      <div class="score-badge">
+        <div class="num">${j.match_score || '—'}</div>
+        <div class="lbl">Match</div>
+      </div>
+    </div>
+
+    <div class="chips">
+      <span class="chip ${modeChip}">${escapeHtml(j.location_type)}</span>
+      <span class="chip">${escapeHtml(regionLabel(j))}</span>
+      ${j.salary_text ? `<span class="chip salary">${escapeHtml(j.salary_text)}</span>` : ''}
+      <span class="chip source">${escapeHtml(j.source)}</span>
+      ${benefitsHtml}
+    </div>
+
+    <p class="snippet">${escapeHtml(j.description_snippet || '')}</p>
+
+    ${skillsHtml ? `<div class="chips">${skillsHtml}</div>` : ''}
+
+    ${reasonsHtml ? `<div class="reasons"><div class="lbl">Why this fits Maddie</div><ul>${reasonsHtml}</ul></div>` : ''}
+
+    ${opener ? `
+      <button class="opener-toggle" data-toggle-opener>▾ Show tailored cover-letter opener</button>
+      <div class="opener opener-hidden">
+        <span class="lbl">Cover-letter opener (draft)</span>
+        ${escapeHtml(opener)}
+      </div>
+    ` : ''}
+
+    <div class="job-actions">
+      <a class="btn btn-primary" href="${escapeHtml(j.url)}" target="_blank" rel="noopener">View & Apply →</a>
+      <select class="status-select status-${t.status}" data-status>
+        <option value="new" ${t.status==='new'?'selected':''}>New</option>
+        <option value="saved" ${t.status==='saved'?'selected':''}>★ Saved</option>
+        <option value="applied" ${t.status==='applied'?'selected':''}>✓ Applied</option>
+        <option value="interview" ${t.status==='interview'?'selected':''}>Interview</option>
+        <option value="offer" ${t.status==='offer'?'selected':''}>Offer</option>
+        <option value="rejected" ${t.status==='rejected'?'selected':''}>Rejected</option>
+      </select>
+      <button class="btn" data-toggle-notes>+ Notes</button>
+      ${opener ? `<button class="btn" data-copy-opener>Copy opener</button>` : ''}
+    </div>
+
+    <textarea class="notes-area ${t.notes ? 'open' : ''}" data-notes placeholder="Application notes — date applied, recruiter name, follow-ups, deadline…">${escapeHtml(t.notes)}</textarea>
+  </article>
+  `;
+}
+
+function renderAll() {
+  const filtered = JOBS.filter(jobPassesFilters);
+  const sorted = sortJobs(filtered);
+  const list = document.getElementById('jobsList');
+  const empty = document.getElementById('emptyState');
+
+  list.innerHTML = sorted.map(renderJob).join('');
+  document.getElementById('resultsCount').textContent = sorted.length + ' job' + (sorted.length === 1 ? '' : 's');
+
+  empty.classList.toggle('hidden', sorted.length > 0);
+
+  // attach handlers
+  list.querySelectorAll('[data-toggle-opener]').forEach(btn => {
+    btn.addEventListener('click', e => {
+      const op = btn.parentElement.querySelector('.opener');
+      op.classList.toggle('opener-hidden');
+      btn.textContent = op.classList.contains('opener-hidden')
+        ? '▾ Show tailored cover-letter opener'
+        : '▴ Hide cover-letter opener';
+    });
+  });
+  list.querySelectorAll('[data-toggle-notes]').forEach(btn => {
+    btn.addEventListener('click', e => {
+      const ta = btn.closest('.job').querySelector('[data-notes]');
+      ta.classList.toggle('open');
+      if (ta.classList.contains('open')) ta.focus();
+    });
+  });
+  list.querySelectorAll('[data-copy-opener]').forEach(btn => {
+    btn.addEventListener('click', e => {
+      const id = btn.closest('.job').dataset.id;
+      const j = JOBS.find(x => x.id === id);
+      if (!j) return;
+      navigator.clipboard.writeText(j.cover_letter_opener || '').then(() => {
+        const orig = btn.textContent;
+        btn.textContent = '✓ Copied';
+        setTimeout(() => btn.textContent = orig, 1500);
+      });
+    });
+  });
+  list.querySelectorAll('[data-status]').forEach(sel => {
+    sel.addEventListener('change', e => {
+      const id = sel.closest('.job').dataset.id;
+      const t = trackJob(id);
+      t.status = sel.value;
+      saveTracker();
+      sel.className = 'status-select status-' + sel.value;
+      const card = sel.closest('.job');
+      const appliedNow = (sel.value === 'applied' || sel.value === 'interview' || sel.value === 'offer');
+      card.classList.toggle('applied', appliedNow);
+      updateTrackerStats();
+    });
+  });
+  list.querySelectorAll('[data-notes]').forEach(ta => {
+    ta.addEventListener('input', e => {
+      const id = ta.closest('.job').dataset.id;
+      const t = trackJob(id);
+      t.notes = ta.value;
+      saveTracker();
+    });
+  });
+
+  updateTrackerStats();
+}
+
+function updateTrackerStats() {
+  const counts = { saved: 0, applied: 0, interview: 0, offer: 0, rejected: 0 };
+  Object.values(TRACKER).forEach(t => {
+    if (counts.hasOwnProperty(t.status)) counts[t.status]++;
+  });
+  document.getElementById('cSaved').textContent = counts.saved;
+  document.getElementById('cApplied').textContent = counts.applied;
+  document.getElementById('cInterview').textContent = counts.interview;
+  document.getElementById('cOffer').textContent = counts.offer;
+  document.getElementById('cRejected').textContent = counts.rejected;
+}
+
+function setSummaryStats() {
+  document.getElementById('statTotal').textContent = JOBS.length;
+  document.getElementById('statWny').textContent = JOBS.filter(j => j.is_wny).length;
+  document.getElementById('statNyc').textContent = JOBS.filter(j => j.is_nyc).length;
+  document.getElementById('statRemote').textContent = JOBS.filter(j => j.is_remote).length;
+}
+
+function wireFilters() {
+  document.querySelectorAll('#regionSeg button').forEach(b => {
+    b.addEventListener('click', () => {
+      document.querySelectorAll('#regionSeg button').forEach(x => x.classList.remove('active'));
+      b.classList.add('active');
+      const r = b.dataset.region;
+      document.getElementById('resultsTitle').textContent =
+        r === 'all' ? 'All Openings' :
+        r === 'wny' ? 'Buffalo & Western New York' :
+        r === 'nyc' ? 'New York City Metro' : 'Remote Opportunities';
+      renderAll();
+    });
+  });
+  document.querySelectorAll('#modeSeg button').forEach(b => {
+    b.addEventListener('click', () => {
+      document.querySelectorAll('#modeSeg button').forEach(x => x.classList.remove('active'));
+      b.classList.add('active');
+      renderAll();
+    });
+  });
+  document.getElementById('search').addEventListener('input', renderAll);
+  document.getElementById('statusFilter').addEventListener('change', renderAll);
+  document.getElementById('sortBy').addEventListener('change', renderAll);
+
+  const salaryR = document.getElementById('salaryRange');
+  salaryR.addEventListener('input', () => {
+    const v = parseInt(salaryR.value, 10);
+    document.getElementById('salaryVal').textContent = v === 0 ? '$0' : '$' + (v/1000).toFixed(0) + 'K';
+    renderAll();
+  });
+  const scoreR = document.getElementById('scoreRange');
+  scoreR.addEventListener('input', () => {
+    document.getElementById('scoreVal').textContent = scoreR.value;
+    renderAll();
+  });
+  document.getElementById('resetTracker').addEventListener('click', () => {
+    if (confirm('Clear all application-tracker statuses and notes on this device?')) {
+      TRACKER = {};
+      saveTracker();
+      renderAll();
+    }
+  });
+}
+
+async function init() {
+  loadTracker();
+  try {
+    const res = await fetch('./jobs.json?_=' + Date.now());
+    const data = await res.json();
+    JOBS = data.jobs || [];
+    if (data.last_updated) {
+      const d = new Date(data.last_updated);
+      document.getElementById('lastUpdated').textContent =
+        'Updated ' + d.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
+    }
+  } catch (e) {
+    document.getElementById('lastUpdated').textContent = 'Unable to load jobs.json';
+    console.error(e);
+  }
+  setSummaryStats();
+  wireFilters();
+  renderAll();
+}
+init();
+</script>
+
+</body>
+</html>
