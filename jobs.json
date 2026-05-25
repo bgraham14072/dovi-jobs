@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24",
+  "last_updated": "2026-05-25",
   "candidate": {
     "name": "Madeline M. Dovi",
     "title": "Communications & Marketing Coordinator \u00b7 Writer \u00b7 Editor",
@@ -97,44 +97,6 @@
         "Hybrid in Buffalo"
       ],
       "cover_letter_opener": "Trysail's Tribal Diplomacy\u2122 practice caught my eye because it sits exactly where my two careers meet \u2014 the newsroom and the comms shop. As a former Junior Editor at The Daily Caller News Foundation, I rose from reporter to editor in a year by turning pitches fast and writing clean AP-style headlines; today at UB I write the press releases, pitch the journalists, and run the editorial calendars on the other side of that same conversation. I'd love to bring both lenses to your media-relations table."
-    },
-    {
-      "id": "golisano-marketing-comms-specialist",
-      "title": "Marketing & Communications Specialist",
-      "company": "Golisano Institute for Business & Entrepreneurship",
-      "location": "Buffalo, NY",
-      "location_type": "On-site",
-      "is_wny": true,
-      "is_nyc": false,
-      "is_remote": false,
-      "posted_date": "2026-04-25",
-      "salary_min": 75000,
-      "salary_max": 85000,
-      "salary_text": "$75,000 \u2013 $85,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/marketing-communications-specialist-at-golisano-institute-for-business-entrepreneurship-4376502978",
-      "description_snippet": "On-site communications lead for GIBE's new Buffalo Campus Center. Tell stories about renovation progress, partnerships and community engagement; collaborate with Rochester-based marketing team. AP Style explicit.",
-      "key_skills": [
-        "AP Style",
-        "Higher-Ed Comms",
-        "Storytelling",
-        "Social Media",
-        "Content Strategy"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision (inferred)",
-        "401(k) (inferred)"
-      ],
-      "match_score": 95,
-      "match_reasons": [
-        "Higher-ed institutional comms = direct match",
-        "AP Style required",
-        "Storytelling-first role",
-        "Strong WNY salary"
-      ],
-      "cover_letter_opener": "Golisano is opening a Buffalo campus center, and you need someone who can tell that story from the inside \u2014 partnerships, renovations, community moments, all in AP style. That is, in plain terms, the job I do every week at UB's Research, Innovation and Economic Development office, where I've covered everything from a $20 million federal AI institute to a Merck spin-out acquisition. I'd be thrilled to do that work for another Western New York institution Paul Golisano is helping put on the map."
     },
     {
       "id": "ragan-video-content-producer",
@@ -689,45 +651,6 @@
         "Calendar discipline matches RIED"
       ],
       "cover_letter_opener": "Editorial Manager is, on paper, the title that connects the dots in my career \u2014 Junior Editor at a national newsroom, Communications & Marketing Coordinator running a higher-ed editorial calendar, and now a remote SaaS editor's seat. I'd love to talk about how Typeform's calendar gets sharper."
-    },
-    {
-      "id": "ub-asst-dir-visual-comms",
-      "title": "Assistant Director of Visual Communications",
-      "company": "University at Buffalo (Advancement)",
-      "location": "Buffalo, NY",
-      "location_type": "On-site",
-      "is_wny": true,
-      "is_nyc": false,
-      "is_remote": false,
-      "posted_date": "2026-04-25",
-      "salary_min": 58000,
-      "salary_max": 60000,
-      "salary_text": "$58,000 \u2013 $60,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid",
-      "source": "HERC",
-      "url": "https://www.ubjobs.buffalo.edu/postings/62140",
-      "description_snippet": "Advancement Marketing and Communications team role supporting visual design across print, digital and web for the $1B Boldly Buffalo campaign. Adobe Creative Suite + UX foundations required. Application deadline June 1, 2026.",
-      "key_skills": [
-        "Adobe Creative Suite",
-        "Print/Digital Design",
-        "Web/UX Foundations",
-        "Campaign Comms"
-      ],
-      "benefits_highlights": [
-        "UUP health insurance",
-        "Tuition benefits",
-        "Pension",
-        "Career growth"
-      ],
-      "match_score": 86,
-      "match_reasons": [
-        "Internal UB move \u2014 same system, new division",
-        "Adobe Suite already on resume",
-        "Boldly Buffalo storytelling",
-        "Deadline June 1 \u2014 apply this week"
-      ],
-      "cover_letter_opener": "I've spent the last three years at UB's RIED office writing the research half of the Boldly Buffalo story \u2014 Empire AI, the Merck acquisition, $1M in UBLAUNCH grants. Advancement Communications is the donor-facing other half of that same story, and I'd welcome the chance to bring my journalism instincts, Adobe Suite fluency and UB institutional knowledge to the visual-comms side of the campaign before the June 1 deadline."
     },
     {
       "id": "dow-jones-writer-ceo-office",
@@ -1723,6 +1646,78 @@
         "Strong PR fit on skills"
       ],
       "cover_letter_opener": "I'm putting myself forward as a stretch candidate for the PR Manager role because the job description is the job I've been quietly building toward. Today at UB I draft the press releases, manage the rapid-response cycle when federal policy shifts overnight, and own the media relationships our Vice Presidents lean on. With two Moog references already in my corner and a Ragan PR certificate finished last summer, I'd love a conversation."
+    },
+    {
+      "id": "2026-05-25_5754dd54ab",
+      "title": "Manager of Public Relations",
+      "company": "O'Melveny & Myers LLP",
+      "location": "New York, NY (NYC)",
+      "location_type": "in_person",
+      "is_wny": false,
+      "is_nyc": true,
+      "is_remote": false,
+      "posted_date": "2026-05-22",
+      "salary": "$130,000-$170,000",
+      "salary_min": 130000,
+      "salary_max": 170000,
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/manager-of-public-relations-at-o-melveny-myers-llp-4417345509",
+      "description": "Deputy PR professional supporting Director of Communications; secure media/bylines, draft press releases, manage awards processes, and staff interviews.",
+      "key_skills": [
+        "media relations",
+        "press releases",
+        "writing/editing",
+        "project management",
+        "CMS",
+        "Microsoft Office"
+      ],
+      "benefits_highlights": [
+        "Benefits package (details not listed)"
+      ],
+      "match_score": 72,
+      "match_reasons": [
+        "Strong fit with her PR/corporate communications interests and writing background (press releases, pitches, media responses).",
+        "Role emphasizes media relations and award submissions where her journalism/editorial experience can translate to proactive story placement.",
+        "CMS familiarity is a plus and aligns with her WordPress experience."
+      ],
+      "cover_letter_opener": "I\u2019m excited to apply for the Manager of Public Relations role at O\u2019Melveny. In my current communications and marketing work and in prior newsroom roles, I\u2019ve built a track record of turning complex topics into clear, compelling stories and pitching them for visibility. I\u2019d love to bring that same disciplined writing, media responsiveness, and client-service mindset to support the firm\u2019s communications team in New York.",
+      "status": "open"
+    },
+    {
+      "id": "2026-05-25_61dd0df732",
+      "title": "Communications Consultant (Employee Benefits)",
+      "company": "Jobgether (partner company)",
+      "location": "United States",
+      "location_type": "remote",
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": true,
+      "posted_date": "2026-05-22",
+      "salary": "$65,000-$85,000",
+      "salary_min": 65000,
+      "salary_max": 85000,
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/communications-consultant-employee-benefits-at-jobgether-4417137542",
+      "description": "Consulting-focused role translating complex benefits information into clear employee communications and engagement materials.",
+      "key_skills": [
+        "benefits communication",
+        "copywriting",
+        "stakeholder management",
+        "employee engagement",
+        "consulting",
+        "writing/editing"
+      ],
+      "benefits_highlights": [
+        "Employee benefits-focused communications role (actual benefits not listed)"
+      ],
+      "match_score": 78,
+      "match_reasons": [
+        "Directly leverages her strengths in simplifying complex information into clear, audience-first writing.",
+        "Employee-engagement storytelling aligns with her comms coordinator experience and editorial instincts.",
+        "Remote US role expands options while keeping a communications/writing core."
+      ],
+      "cover_letter_opener": "I\u2019m interested in the Communications Consultant (Employee Benefits) role because it sits at the intersection of clarity, empathy, and strategy\u2014exactly where my best work happens. In communications roles and earlier as an editor/reporter, I\u2019ve translated complex policies and technical details into concise, reader-friendly messages that drive action. I\u2019d welcome the chance to bring that same disciplined writing and stakeholder-focused approach to benefits communications for your clients.",
+      "status": "open"
     }
   ]
 }
