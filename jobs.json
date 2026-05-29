@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28",
+  "last_updated": "2026-05-29",
   "jobs": [
     {
       "id": "field-fork-digital-engagement-mgr",
@@ -13,9 +13,9 @@
       "url": "https://www.linkedin.com/jobs/view/digital-engagement-manager-at-field-fork-network-4418131780",
       "description": "",
       "cover_letter_opener": "When I read that Field & Fork is looking for a Digital Engagement Manager to grow a mission-driven food-access movement, I recognized the shape of the work \u2014 it's the same craft I've been refining at the University at Buffalo's Research, Innovation and Economic Development office, where I grew our LinkedIn audience by more than 2,200 followers in three years and built a Research Matters newsletter that doubles the national higher-ed click-to-open benchmark. I'd love to bring that same momentum to a Buffalo nonprofit feeding our neighbors.",
-      "salary_min": 63000,
-      "salary_max": 72000,
-      "match_score": 96,
+      "salary_min": 63000.0,
+      "salary_max": 72000.0,
+      "match_score": 96.0,
       "is_wny": true,
       "is_nyc": false,
       "is_remote": false,
@@ -53,9 +53,9 @@
       "url": "https://www.linkedin.com/jobs/view/social-and-media-relations-manager-at-trysail-strategies-4411217589",
       "description": "",
       "cover_letter_opener": "Trysail's Tribal Diplomacy\u2122 practice caught my eye because it sits exactly where my two careers meet \u2014 the newsroom and the comms shop. As a former Junior Editor at The Daily Caller News Foundation, I rose from reporter to editor in a year by turning pitches fast and writing clean AP-style headlines; today at UB I write the press releases, pitch the journalists, and run the editorial calendars on the other side of that same conversation. I'd love to bring both lenses to your media-relations table.",
-      "salary_min": 60000,
-      "salary_max": 70000,
-      "match_score": 96,
+      "salary_min": 60000.0,
+      "salary_max": 70000.0,
+      "match_score": 96.0,
       "is_wny": true,
       "is_nyc": false,
       "is_remote": false,
@@ -96,9 +96,9 @@
       "url": "https://www.linkedin.com/jobs/view/video-content-producer-at-ragan-communications-and-pr-daily-4415146161",
       "description": "",
       "cover_letter_opener": "Ragan certified me as a PR practitioner last summer \u2014 and now you're hiring a Video Content Producer at the same shop where I learned the standards I use every day. With Final Cut Pro and Audacity already in my podcast and reporting workflows, and a Ragan-trained eye for PR storytelling, I'd be thrilled to make this a full circle.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 94,
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 94.0,
       "is_wny": false,
       "is_nyc": false,
       "is_remote": true,
@@ -131,9 +131,9 @@
       "url": "https://www.indeed.com/viewjob?jk=ec09143b59ea75b5",
       "description": "",
       "cover_letter_opener": "Private Health Management's Content Marketing Manager role is, line-for-line, a more national version of what I do for the University at Buffalo today \u2014 newsletters that beat industry click rates, whitepapers translated from researcher to reader, and a social feed that earns the open. I'd love to bring that playbook to a remote healthcare team.",
-      "salary_min": 80000,
-      "salary_max": 110000,
-      "match_score": 93,
+      "salary_min": 80000.0,
+      "salary_max": 110000.0,
+      "match_score": 93.0,
       "is_wny": false,
       "is_nyc": false,
       "is_remote": true,
@@ -171,9 +171,9 @@
       "url": "https://www.linkedin.com/jobs/view/senior-content-writer-at-imagetrend-4418148964",
       "description": "",
       "cover_letter_opener": "ImageTrend's content stack \u2014 Salesforce, CMS publishing, multi-format storytelling for healthcare and emergency-services audiences \u2014 is essentially my current workflow at UB, just pointed at a different sector. I'd love to bring my newsletter discipline (Research Matters runs at nearly 2x the higher-ed industry click rate) and journalism standards to a fully remote senior seat.",
-      "salary_min": 75000,
-      "salary_max": 100000,
-      "match_score": 92,
+      "salary_min": 75000.0,
+      "salary_max": 100000.0,
+      "match_score": 92.0,
       "is_wny": false,
       "is_nyc": false,
       "is_remote": true,
@@ -208,9 +208,9 @@
       "url": "https://www.linkedin.com/jobs/view/copywriter-politics-at-berlinrosen-an-orchestra-company-4417362772",
       "description": "",
       "cover_letter_opener": "BerlinRosen's politics practice does what newsrooms used to do \u2014 write fast, choose words carefully and treat the audience like adults. As a former Junior Editor at The Daily Caller News Foundation who covered politics, business and foreign affairs on tight deadlines, I'd bring an unusual asset to the copywriter seat: I know what reporters do with my copy after I hand it over.",
-      "salary_min": 70000,
-      "salary_max": 70000,
-      "match_score": 91,
+      "salary_min": 70000.0,
+      "salary_max": 70000.0,
+      "match_score": 91.0,
       "is_wny": false,
       "is_nyc": true,
       "is_remote": false,
@@ -243,9 +243,9 @@
       "url": "https://www.linkedin.com/jobs/search/?keywords=American+Physical+Society+marketing+communications+coordinator&f_JT=F&f_WT=2",
       "description": "",
       "cover_letter_opener": "I currently coordinate marketing and communications for a research office at the University at Buffalo. The APS Project Coordinator role is, structurally, my exact job \u2014 same audiences, same channels \u2014 just remote and at a scientific society. I'd love the chance to keep doing the work I'm best at, from a different home base.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 91,
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 91.0,
       "is_wny": false,
       "is_nyc": false,
       "is_remote": true,
@@ -277,9 +277,9 @@
       "url": "https://www.linkedin.com/jobs/view/ocm-communications-specialist-business-modernization-program-at-moog-inc-4415817118",
       "description": "",
       "cover_letter_opener": "Two of my references work at Moog, and I've watched from the UB side as the company keeps reinventing itself for the next decade. The OCM Communications Specialist role is a perfect translation problem: take a heavy SAP modernization and write it down for thousands of employees in language they actually use. That's the muscle I built as a reporter at The Daily Caller News Foundation and now use weekly at UB, turning federal-grant policy and clinical-trial science into copy a Provost can hand to a board.",
-      "salary_min": 78000,
-      "salary_max": 95000,
-      "match_score": 90,
+      "salary_min": 78000.0,
+      "salary_max": 95000.0,
+      "match_score": 90.0,
       "is_wny": true,
       "is_nyc": false,
       "is_remote": false,
@@ -317,9 +317,9 @@
       "url": "https://www.indeed.com/viewjob?jk=c2bfd45ece9ab113",
       "description": "",
       "cover_letter_opener": "I'm a Riff contributor who writes about underground artists at midnight and former Junior Editor at a national newsroom by day \u2014 Virtual Reali-Tea is the rare seat where both halves of my brain get to show up at work. I write fast, I edit clean and I can read a room of reality-TV fans the same way I read a music thread.",
-      "salary_min": 75000,
-      "salary_max": 85000,
-      "match_score": 90,
+      "salary_min": 75000.0,
+      "salary_max": 85000.0,
+      "match_score": 90.0,
       "is_wny": false,
       "is_nyc": true,
       "is_remote": false,
@@ -351,9 +351,9 @@
       "url": "https://www.linkedin.com/jobs/view/communications-writer-at-white-case-llp-4411231209",
       "description": "",
       "cover_letter_opener": "Attorney spotlights, newsletters and thought-leadership pieces are essentially what I write every month at UB \u2014 only the subject matter expert is a Vice President or a Provost instead of a partner. The writing posture is the same: listen carefully, ask one more question than feels polite, and turn it into a story a non-expert wants to read.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 89,
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 89.0,
       "is_wny": false,
       "is_nyc": true,
       "is_remote": false,
@@ -374,47 +374,6 @@
       "status": "open"
     },
     {
-      "id": "syracuse-comms-manager-cps",
-      "title": "Communications Manager \u2014 College of Professional Studies",
-      "company": "Syracuse University",
-      "location": "Syracuse, NY",
-      "location_type": "On-site",
-      "posted_date": "2026-05-05",
-      "salary": "",
-      "source": "HERC",
-      "url": "https://www.sujobopps.com/postings/112943",
-      "description": "",
-      "cover_letter_opener": "Syracuse's College of Professional Studies needs a single owner for the voice across social, web, email and print \u2014 which is, more or less, the job description for what I've done as a one-person shop at UB's RIED. The Research Matters newsletter I built now clicks at nearly double the national higher-ed average, and our LinkedIn has grown 226,500 percent since I took it over. I'd love to bring that playbook to CPS as I step into a manager seat.",
-      "salary_min": 70000,
-      "salary_max": 77000,
-      "match_score": 88,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false,
-      "key_skills": [
-        "WordPress",
-        "Adobe",
-        "Social Media",
-        "AP Style",
-        "Newsletter",
-        "Analytics",
-        "Team Management"
-      ],
-      "benefits_highlights": [
-        "Syracuse U health",
-        "Dental",
-        "Retirement",
-        "Tuition assistance"
-      ],
-      "match_reasons": [
-        "Higher-ed peer institution (SUNY-adjacent)",
-        "WordPress + Adobe + AP Style + newsletter all listed",
-        "Step up to Manager",
-        "5-yr requirement is a slight stretch"
-      ],
-      "status": "open"
-    },
-    {
       "id": "berlinrosen-copywriter-li",
       "title": "Copywriter, Politics (LinkedIn)",
       "company": "BerlinRosen (Orchestra)",
@@ -426,9 +385,9 @@
       "url": "https://www.indeed.com/viewjob?jk=54259ffd3c620890",
       "description": "",
       "cover_letter_opener": "(Use the BerlinRosen opener above \u2014 same role, different board.)",
-      "salary_min": 70000,
-      "salary_max": 70000,
-      "match_score": 88,
+      "salary_min": 70000.0,
+      "salary_max": 70000.0,
+      "match_score": 88.0,
       "is_wny": false,
       "is_nyc": true,
       "is_remote": false,
@@ -458,9 +417,9 @@
       "url": "https://www.indeed.com/viewjob?jk=53f7b2f5a9d7e479",
       "description": "",
       "cover_letter_opener": "Remote.com hires people who can write for an audience that lives in twelve time zones at once \u2014 that's a journalism job, even when the brand says marketing. I'd bring my newsroom training, my Substack and Riff bylines, and my UB-tested ability to translate complex topics into copy that crosses borders to your brand-writing team.",
-      "salary_min": 90000,
-      "salary_max": 120000,
-      "match_score": 88,
+      "salary_min": 90000.0,
+      "salary_max": 120000.0,
+      "match_score": 88.0,
       "is_wny": false,
       "is_nyc": false,
       "is_remote": true,
@@ -485,6 +444,47 @@
       "status": "open"
     },
     {
+      "id": "syracuse-comms-manager-cps",
+      "title": "Communications Manager \u2014 College of Professional Studies",
+      "company": "Syracuse University",
+      "location": "Syracuse, NY",
+      "location_type": "On-site",
+      "posted_date": "2026-05-05",
+      "salary": "",
+      "source": "HERC",
+      "url": "https://www.sujobopps.com/postings/112943",
+      "description": "",
+      "cover_letter_opener": "Syracuse's College of Professional Studies needs a single owner for the voice across social, web, email and print \u2014 which is, more or less, the job description for what I've done as a one-person shop at UB's RIED. The Research Matters newsletter I built now clicks at nearly double the national higher-ed average, and our LinkedIn has grown 226,500 percent since I took it over. I'd love to bring that playbook to CPS as I step into a manager seat.",
+      "salary_min": 70000.0,
+      "salary_max": 77000.0,
+      "match_score": 88.0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false,
+      "key_skills": [
+        "WordPress",
+        "Adobe",
+        "Social Media",
+        "AP Style",
+        "Newsletter",
+        "Analytics",
+        "Team Management"
+      ],
+      "benefits_highlights": [
+        "Syracuse U health",
+        "Dental",
+        "Retirement",
+        "Tuition assistance"
+      ],
+      "match_reasons": [
+        "Higher-ed peer institution (SUNY-adjacent)",
+        "WordPress + Adobe + AP Style + newsletter all listed",
+        "Step up to Manager",
+        "5-yr requirement is a slight stretch"
+      ],
+      "status": "open"
+    },
+    {
       "id": "wsp-marketing-proposal-coordinator",
       "title": "Marketing Proposal Coordinator \u2014 Strategic Growth Team",
       "company": "WSP in the U.S.",
@@ -496,9 +496,9 @@
       "url": "https://www.linkedin.com/jobs/view/marketing-proposal-coordinator-strategic-growth-team-at-wsp-in-the-u-s-4416311816",
       "description": "",
       "cover_letter_opener": "WSP's Strategic Growth Team is essentially a newsroom on deadline \u2014 and that's the environment where I do my best work. As a Junior Editor at The Daily Caller News Foundation I lived inside fast-turn pitches and tight headlines; now at UB I build proposals and grant narratives for researchers chasing federal funding. SharePoint, Adobe Suite and a calm hand on deadline are already in my daily routine.",
-      "salary_min": 65300,
-      "salary_max": 111980,
-      "match_score": 87,
+      "salary_min": 65300.0,
+      "salary_max": 111980.0,
+      "match_score": 87.0,
       "is_wny": true,
       "is_nyc": false,
       "is_remote": false,
@@ -533,9 +533,9 @@
       "url": "https://www.linkedin.com/jobs/view/copywriter-at-saatchi-saatchi-health-4371569376",
       "description": "",
       "cover_letter_opener": "Wellness copy is a deceptively hard craft \u2014 the science has to be right, the regulator has to be calm, and the human reading it still needs to feel something. That triangulation is the daily problem I solve at UB writing about FOXG1 clinical trials, AIforExceptionalEd and Merck-acquired biotech spin-outs. I'd love to bring that ear to the Wellness creative team at Saatchi.",
-      "salary_min": 66120,
-      "salary_max": 101790,
-      "match_score": 87,
+      "salary_min": 66120.0,
+      "salary_max": 101790.0,
+      "match_score": 87.0,
       "is_wny": false,
       "is_nyc": true,
       "is_remote": false,
@@ -567,9 +567,9 @@
       "url": "https://www.indeed.com/viewjob?jk=12044508f11c7aaf",
       "description": "",
       "cover_letter_opener": "I went from reporter to Junior Editor at The Daily Caller News Foundation in twelve months by living on the homepage during breaking news cycles \u2014 politics, business, foreign affairs \u2014 and assigning sharp leads under deadline. A Digital Editor seat at the New York Post would put me back in the chair I most enjoy, on a much bigger stage.",
-      "salary_min": 70000,
-      "salary_max": 85000,
-      "match_score": 87,
+      "salary_min": 70000.0,
+      "salary_max": 85000.0,
+      "match_score": 87.0,
       "is_wny": false,
       "is_nyc": true,
       "is_remote": false,
@@ -601,9 +601,9 @@
       "url": "https://www.linkedin.com/jobs/view/editorial-manager-at-typeform-4409603739",
       "description": "",
       "cover_letter_opener": "Editorial Manager is, on paper, the title that connects the dots in my career \u2014 Junior Editor at a national newsroom, Communications & Marketing Coordinator running a higher-ed editorial calendar, and now a remote SaaS editor's seat. I'd love to talk about how Typeform's calendar gets sharper.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 87,
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 87.0,
       "is_wny": false,
       "is_nyc": false,
       "is_remote": true,
@@ -624,137 +624,42 @@
       "status": "open"
     },
     {
-      "id": "dow-jones-writer-ceo-office",
-      "title": "Writer, Office of the CEO",
-      "company": "Dow Jones (News Corp)",
-      "location": "New York, NY",
-      "location_type": "Hybrid",
-      "posted_date": "2026-05-16",
-      "salary": "",
+      "id": "the-contrarian-via-remotehunter-communications-assistant-the-contrarian",
+      "title": "Communications Assistant, The Contrarian",
+      "company": "The Contrarian (via RemoteHunter)",
+      "location": "United States",
+      "location_type": "remote",
+      "posted_date": "2026-05-28",
+      "salary": "$55,000-$80,000",
       "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/writer-office-of-the-ceo-at-dow-jones-4410609975",
-      "description": "",
-      "cover_letter_opener": "Writing in someone else's voice for an audience that won't grant you a second draft is a craft I picked up in the newsroom and have practiced every week at UB, where I write for Vice Presidents and our Provost. The Office of the CEO role at Dow Jones \u2014 a newsroom-adjacent shop where the standards are non-negotiable \u2014 is the kind of seat I'd love to interview for.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 86,
-      "is_wny": false,
-      "is_nyc": true,
-      "is_remote": false,
-      "key_skills": [
-        "Executive Comms",
-        "Speechwriting",
-        "Editorial Writing"
-      ],
-      "benefits_highlights": [
-        "News Corp full package"
-      ],
-      "match_reasons": [
-        "Journalism alum at WSJ-parent = perfect cultural fit",
-        "Already writes for VPs/Provost at UB",
-        "Stretch but plausible"
-      ],
-      "status": "open"
-    },
-    {
-      "id": "bandit-running-marketing-copywriter",
-      "title": "Marketing Copywriter",
-      "company": "Bandit Running",
-      "location": "Brooklyn, NY",
-      "location_type": "On-site",
-      "posted_date": "2026-05-18",
-      "salary": "",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/viewjob?jk=a2119f9906ed25cb",
-      "description": "",
-      "cover_letter_opener": "I ran NCAA Division III cross country and track at Nazareth \u2014 Bandit Running is the brand I wish had existed for me then, and the brand I want to write for now. Brand voice work, in my reading, is just journalism turned inward: notice the tone a brand already has, and stop missing it. I'd be glad to take a Bandit prompt and show you the proof.",
-      "salary_min": 90000,
-      "salary_max": 95000,
-      "match_score": 86,
-      "is_wny": false,
-      "is_nyc": true,
-      "is_remote": false,
-      "key_skills": [
-        "Brand Voice",
-        "Copywriting",
-        "Editorial Craft"
-      ],
-      "benefits_highlights": [
-        "Dental insurance",
-        "Vision insurance"
-      ],
-      "match_reasons": [
-        "Running background literally on resume (Nazareth Track & XC)",
-        "Brand voice = editorial craft",
-        "Strong NYC salary"
-      ],
-      "status": "open"
-    },
-    {
-      "id": "usa-today-platforms-editor",
-      "title": "Platforms Editor \u2014 Special Projects",
-      "company": "USA TODAY (Gannett)",
-      "location": "Remote (US)",
-      "location_type": "Remote",
-      "posted_date": "2026-05-16",
-      "salary": "",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/platforms-editor-special-projects-at-usa-today-co-inc-4399462902",
-      "description": "",
-      "cover_letter_opener": "A Platforms Editor seat on USA TODAY's Special Projects desk would let me bring both halves of my career to the same screen \u2014 newsroom AP-style instincts from The Daily Caller News Foundation and a marketer's grasp of how stories travel on platforms today. I'd love a conversation.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 86,
+      "url": "https://www.linkedin.com/jobs/view/communications-assistant-the-contrarian-at-remotehunter-4417198111",
+      "description": "Assist communications team with digital strategy; draft/edit/publish social posts; update Substack and website; support video production; monitor media coverage; research reporters and narratives.",
+      "cover_letter_opener": "I\u2019m excited to apply for the Communications Assistant role supporting The Contrarian because it blends fast-moving news awareness with clear, audience-first writing. In my current communications work at UB RIED and in prior newsroom roles, I\u2019ve translated complex topics into accurate, engaging copy and kept content calendars moving under tight deadlines. I\u2019d love to bring that editorial rigor to your Substack and social channels while helping the team respond quickly to breaking narratives.",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 86.0,
       "is_wny": false,
       "is_nyc": false,
       "is_remote": true,
       "key_skills": [
-        "Editorial Projects",
-        "AP Style",
-        "Social Publishing"
+        "Writing/editing",
+        "Social media",
+        "Substack",
+        "News monitoring",
+        "Research",
+        "Video collaboration"
       ],
       "benefits_highlights": [
-        "Gannett full benefits"
+        "Health insurance (100% employee coverage)",
+        "401(k) with matching",
+        "Tech and home office stipends",
+        "Access to coworking spaces",
+        "20+ days PTO + 12 holidays"
       ],
       "match_reasons": [
-        "National newsroom return path",
-        "Remote",
-        "AP Style + social publishing both on resume"
-      ],
-      "status": "open"
-    },
-    {
-      "id": "finalsite-marketing-coordinator",
-      "title": "Marketing Coordinator",
-      "company": "Finalsite (EdTech / Higher Ed)",
-      "location": "Remote (US)",
-      "location_type": "Remote",
-      "posted_date": "2026-05-16",
-      "salary": "",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/search/?keywords=Finalsite+marketing+coordinator&f_JT=F&f_WT=2",
-      "description": "",
-      "cover_letter_opener": "I am, very literally, Finalsite's user \u2014 I run institutional comms inside a major research university every day. Bringing that voice-of-customer fluency to the marketing-coordinator seat at Finalsite would mean every campaign you ship has someone on the inside who's already lived its pain.",
-      "salary_min": 35000,
-      "salary_max": 65000,
-      "match_score": 86,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": true,
-      "key_skills": [
-        "EdTech Marketing",
-        "CMS",
-        "WordPress",
-        "Newsletter",
-        "Project Management"
-      ],
-      "benefits_highlights": [
-        "Finalsite full benefits"
-      ],
-      "match_reasons": [
-        "Higher-ed customer base = direct lived expertise",
-        "CMS + WordPress already on resume",
-        "Remote"
+        "Strong alignment with your reporting/editing background and AP Style strength.",
+        "Role explicitly involves maintaining Substack content, matching your Substack + The Riff writing work.",
+        "Hands-on social content drafting across multiple platforms; you have Sprinklr and comms coordination experience."
       ],
       "status": "open"
     },
@@ -770,9 +675,9 @@
       "url": "https://www.idealist.org/en/nonprofit-job/be7f376cc13c4119b1064f8168711857-programmatic-communications-coordinator-treatment-action-group-new-york",
       "description": "Hybrid NYC role supporting TAG\u2019s TB program communications: develop communications strategy, manage publications, write press/web/social copy, coordinate campaigns, webinars, and earned media.",
       "cover_letter_opener": "I\u2019m excited by TAG\u2019s mission-driven communications work and the chance to translate complex TB policy and program work into clear, human-centered messaging. In my current communications and marketing role at the University at Buffalo and my prior newsroom reporting/editing work, I\u2019ve built a habit of turning technical topics into publish-ready stories, releases, and social copy that move audiences to action.",
-      "salary_min": 65000,
-      "salary_max": 72000,
-      "match_score": 86,
+      "salary_min": 65000.0,
+      "salary_max": 72000.0,
+      "match_score": 86.0,
       "is_wny": false,
       "is_nyc": true,
       "is_remote": false,
@@ -803,6 +708,174 @@
       "status": "open"
     },
     {
+      "id": "bandit-running-marketing-copywriter",
+      "title": "Marketing Copywriter",
+      "company": "Bandit Running",
+      "location": "Brooklyn, NY",
+      "location_type": "On-site",
+      "posted_date": "2026-05-18",
+      "salary": "",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/viewjob?jk=a2119f9906ed25cb",
+      "description": "",
+      "cover_letter_opener": "I ran NCAA Division III cross country and track at Nazareth \u2014 Bandit Running is the brand I wish had existed for me then, and the brand I want to write for now. Brand voice work, in my reading, is just journalism turned inward: notice the tone a brand already has, and stop missing it. I'd be glad to take a Bandit prompt and show you the proof.",
+      "salary_min": 90000.0,
+      "salary_max": 95000.0,
+      "match_score": 86.0,
+      "is_wny": false,
+      "is_nyc": true,
+      "is_remote": false,
+      "key_skills": [
+        "Brand Voice",
+        "Copywriting",
+        "Editorial Craft"
+      ],
+      "benefits_highlights": [
+        "Dental insurance",
+        "Vision insurance"
+      ],
+      "match_reasons": [
+        "Running background literally on resume (Nazareth Track & XC)",
+        "Brand voice = editorial craft",
+        "Strong NYC salary"
+      ],
+      "status": "open"
+    },
+    {
+      "id": "dow-jones-writer-ceo-office",
+      "title": "Writer, Office of the CEO",
+      "company": "Dow Jones (News Corp)",
+      "location": "New York, NY",
+      "location_type": "Hybrid",
+      "posted_date": "2026-05-16",
+      "salary": "",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/writer-office-of-the-ceo-at-dow-jones-4410609975",
+      "description": "",
+      "cover_letter_opener": "Writing in someone else's voice for an audience that won't grant you a second draft is a craft I picked up in the newsroom and have practiced every week at UB, where I write for Vice Presidents and our Provost. The Office of the CEO role at Dow Jones \u2014 a newsroom-adjacent shop where the standards are non-negotiable \u2014 is the kind of seat I'd love to interview for.",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 86.0,
+      "is_wny": false,
+      "is_nyc": true,
+      "is_remote": false,
+      "key_skills": [
+        "Executive Comms",
+        "Speechwriting",
+        "Editorial Writing"
+      ],
+      "benefits_highlights": [
+        "News Corp full package"
+      ],
+      "match_reasons": [
+        "Journalism alum at WSJ-parent = perfect cultural fit",
+        "Already writes for VPs/Provost at UB",
+        "Stretch but plausible"
+      ],
+      "status": "open"
+    },
+    {
+      "id": "usa-today-platforms-editor",
+      "title": "Platforms Editor \u2014 Special Projects",
+      "company": "USA TODAY (Gannett)",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "posted_date": "2026-05-16",
+      "salary": "",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/platforms-editor-special-projects-at-usa-today-co-inc-4399462902",
+      "description": "",
+      "cover_letter_opener": "A Platforms Editor seat on USA TODAY's Special Projects desk would let me bring both halves of my career to the same screen \u2014 newsroom AP-style instincts from The Daily Caller News Foundation and a marketer's grasp of how stories travel on platforms today. I'd love a conversation.",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 86.0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": true,
+      "key_skills": [
+        "Editorial Projects",
+        "AP Style",
+        "Social Publishing"
+      ],
+      "benefits_highlights": [
+        "Gannett full benefits"
+      ],
+      "match_reasons": [
+        "National newsroom return path",
+        "Remote",
+        "AP Style + social publishing both on resume"
+      ],
+      "status": "open"
+    },
+    {
+      "id": "finalsite-marketing-coordinator",
+      "title": "Marketing Coordinator",
+      "company": "Finalsite (EdTech / Higher Ed)",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "posted_date": "2026-05-16",
+      "salary": "",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Finalsite+marketing+coordinator&f_JT=F&f_WT=2",
+      "description": "",
+      "cover_letter_opener": "I am, very literally, Finalsite's user \u2014 I run institutional comms inside a major research university every day. Bringing that voice-of-customer fluency to the marketing-coordinator seat at Finalsite would mean every campaign you ship has someone on the inside who's already lived its pain.",
+      "salary_min": 35000.0,
+      "salary_max": 65000.0,
+      "match_score": 86.0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": true,
+      "key_skills": [
+        "EdTech Marketing",
+        "CMS",
+        "WordPress",
+        "Newsletter",
+        "Project Management"
+      ],
+      "benefits_highlights": [
+        "Finalsite full benefits"
+      ],
+      "match_reasons": [
+        "Higher-ed customer base = direct lived expertise",
+        "CMS + WordPress already on resume",
+        "Remote"
+      ],
+      "status": "open"
+    },
+    {
+      "id": "ogilvy-health-copywriter",
+      "title": "Copywriter",
+      "company": "Ogilvy Health (WPP)",
+      "location": "New York, NY",
+      "location_type": "Hybrid",
+      "posted_date": "2026-05-22",
+      "salary": "",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/copywriter-at-ogilvy-health-4406427287",
+      "description": "",
+      "cover_letter_opener": "Ogilvy Health writes the science down for the humans who have to live with it \u2014 that is, in plain terms, my job at the University at Buffalo. Whether it's a $20M federal AI institute or a UB-led spin-out being acquired by Merck, the work is the same: find the line that makes a non-expert lean in.",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 85.0,
+      "is_wny": false,
+      "is_nyc": true,
+      "is_remote": false,
+      "key_skills": [
+        "Copywriting",
+        "Healthcare Comms",
+        "Brand Voice"
+      ],
+      "benefits_highlights": [
+        "WPP/Ogilvy full package"
+      ],
+      "match_reasons": [
+        "Posted yesterday \u2014 fresh",
+        "Healthcare + agency lane",
+        "NYC hybrid"
+      ],
+      "status": "open"
+    },
+    {
       "id": "spectrum-social-media-listening-analyst",
       "title": "Social Media Listening Analyst",
       "company": "Spectrum (Charter Communications)",
@@ -814,9 +887,9 @@
       "url": "https://www.indeed.com/viewjob?jk=f15db203cc2eedf4",
       "description": "",
       "cover_letter_opener": "Sprinklr is already part of my daily toolkit at UB, where I use it to read what's resonating across our research audiences and feed that back into the editorial calendar. The Social Media Listening Analyst role at Spectrum lets me do that work at a much larger scale \u2014 telecom audiences, multiple brands, real revenue stakes \u2014 and I'd love to be considered.",
-      "salary_min": 60900,
-      "salary_max": 97700,
-      "match_score": 85,
+      "salary_min": 60900.0,
+      "salary_max": 97700.0,
+      "match_score": 85.0,
       "is_wny": true,
       "is_nyc": false,
       "is_remote": false,
@@ -838,72 +911,6 @@
       "status": "open"
     },
     {
-      "id": "ogilvy-health-copywriter",
-      "title": "Copywriter",
-      "company": "Ogilvy Health (WPP)",
-      "location": "New York, NY",
-      "location_type": "Hybrid",
-      "posted_date": "2026-05-22",
-      "salary": "",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/copywriter-at-ogilvy-health-4406427287",
-      "description": "",
-      "cover_letter_opener": "Ogilvy Health writes the science down for the humans who have to live with it \u2014 that is, in plain terms, my job at the University at Buffalo. Whether it's a $20M federal AI institute or a UB-led spin-out being acquired by Merck, the work is the same: find the line that makes a non-expert lean in.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 85,
-      "is_wny": false,
-      "is_nyc": true,
-      "is_remote": false,
-      "key_skills": [
-        "Copywriting",
-        "Healthcare Comms",
-        "Brand Voice"
-      ],
-      "benefits_highlights": [
-        "WPP/Ogilvy full package"
-      ],
-      "match_reasons": [
-        "Posted yesterday \u2014 fresh",
-        "Healthcare + agency lane",
-        "NYC hybrid"
-      ],
-      "status": "open"
-    },
-    {
-      "id": "nbcuniversal-content-editor-duopoly",
-      "title": "Content Creator / Editor \u2014 NBC & Telemundo NY",
-      "company": "NBCUniversal",
-      "location": "New York, NY",
-      "location_type": "On-site",
-      "posted_date": "2026-05-09",
-      "salary": "",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/duopoly-content-creator-editor-nbc-telemundo-new-york-at-nbcuniversal-4411766972",
-      "description": "",
-      "cover_letter_opener": "The 'duopoly' content creator/editor role at NBC & Telemundo NY is exactly the kind of hybrid newsroom seat I'm built for \u2014 half journalist, half social-media operator. At UB I grew RIED's LinkedIn 226,500% from inception while writing the press releases behind each post; I'd bring that same blended craft to NBCUniversal's NY duopoly.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 85,
-      "is_wny": false,
-      "is_nyc": true,
-      "is_remote": false,
-      "key_skills": [
-        "Cross-platform Editing",
-        "Digital Production",
-        "Social Media",
-        "Journalism"
-      ],
-      "benefits_highlights": [
-        "NBCUniversal full package"
-      ],
-      "match_reasons": [
-        "Journalism + social-media combo = perfect 'duopoly' fit",
-        "Top NYC newsroom employer"
-      ],
-      "status": "open"
-    },
-    {
       "id": "gallagher-senior-copywriter",
       "title": "Senior Copywriter \u2014 The Marketing Studio",
       "company": "Gallagher",
@@ -915,9 +922,9 @@
       "url": "https://www.indeed.com/viewjob?jk=5ec1d34cfc7e72e9",
       "description": "",
       "cover_letter_opener": "Gallagher's Marketing Studio sounds like a real newsroom inside a Fortune 500 \u2014 multi-channel, deadline-driven, brand-disciplined. I write across that whole stack today at UB, from press releases to social to print collateral, and I'd love to bring that range to a remote senior seat.",
-      "salary_min": 64500,
-      "salary_max": 126000,
-      "match_score": 85,
+      "salary_min": 64500.0,
+      "salary_max": 126000.0,
+      "match_score": 85.0,
       "is_wny": false,
       "is_nyc": false,
       "is_remote": true,
@@ -941,6 +948,141 @@
       "status": "open"
     },
     {
+      "id": "nbcuniversal-content-editor-duopoly",
+      "title": "Content Creator / Editor \u2014 NBC & Telemundo NY",
+      "company": "NBCUniversal",
+      "location": "New York, NY",
+      "location_type": "On-site",
+      "posted_date": "2026-05-09",
+      "salary": "",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/duopoly-content-creator-editor-nbc-telemundo-new-york-at-nbcuniversal-4411766972",
+      "description": "",
+      "cover_letter_opener": "The 'duopoly' content creator/editor role at NBC & Telemundo NY is exactly the kind of hybrid newsroom seat I'm built for \u2014 half journalist, half social-media operator. At UB I grew RIED's LinkedIn 226,500% from inception while writing the press releases behind each post; I'd bring that same blended craft to NBCUniversal's NY duopoly.",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 85.0,
+      "is_wny": false,
+      "is_nyc": true,
+      "is_remote": false,
+      "key_skills": [
+        "Cross-platform Editing",
+        "Digital Production",
+        "Social Media",
+        "Journalism"
+      ],
+      "benefits_highlights": [
+        "NBCUniversal full package"
+      ],
+      "match_reasons": [
+        "Journalism + social-media combo = perfect 'duopoly' fit",
+        "Top NYC newsroom employer"
+      ],
+      "status": "open"
+    },
+    {
+      "id": "peloton-copywriter-ii",
+      "title": "Copywriter II",
+      "company": "Peloton Interactive",
+      "location": "New York, NY",
+      "location_type": "Hybrid",
+      "posted_date": "2026-05-19",
+      "salary": "",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/copywriter-ii-at-peloton-interactive-4412819722",
+      "description": "",
+      "cover_letter_opener": "Peloton's brand voice has always lived in the same emotional register I write in for The Riff on Medium \u2014 the moment when a song lands and you actually move. Bringing that ear to a Copywriter II seat at Peloton, where the copy has to land in 30 seconds on a phone, sounds like a great trade of skills.",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 84.0,
+      "is_wny": false,
+      "is_nyc": true,
+      "is_remote": false,
+      "key_skills": [
+        "Copywriting",
+        "Email Marketing",
+        "Brand Voice",
+        "Lifestyle/Wellness"
+      ],
+      "benefits_highlights": [
+        "Peloton full benefits"
+      ],
+      "match_reasons": [
+        "Music-and-movement adjacency (Maddie writes for The Riff)",
+        "NYC hybrid",
+        "Brand voice fluency"
+      ],
+      "status": "open"
+    },
+    {
+      "id": "ncm-comms-content-manager",
+      "title": "Communications & Content Manager",
+      "company": "NCM Associates",
+      "location": "Remote (Kansas City base)",
+      "location_type": "Remote",
+      "posted_date": "2026-05-19",
+      "salary": "",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/communications-and-content-manager-at-ncm-associates-4397893669",
+      "description": "",
+      "cover_letter_opener": "Reading the NCM Communications & Content Manager description is like reading my current job description, lifted to a slightly different industry. Internal and external comms held together by one editor \u2014 that's the seat I'm in at UB today, and I'd be glad to bring it to your team.",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 84.0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": true,
+      "key_skills": [
+        "Internal Comms",
+        "External Comms",
+        "Editorial",
+        "Content Production"
+      ],
+      "benefits_highlights": [
+        "NCM full benefits"
+      ],
+      "match_reasons": [
+        "Mirrors Maddie's current responsibilities",
+        "Remote",
+        "Internal + external comms scope"
+      ],
+      "status": "open"
+    },
+    {
+      "id": "nypost-commerce-reporter",
+      "title": "Commerce Reporter",
+      "company": "New York Post",
+      "location": "New York, NY",
+      "location_type": "On-site",
+      "posted_date": "2026-05-18",
+      "salary": "",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/viewjob?jk=eb25805d6627bb43",
+      "description": "",
+      "cover_letter_opener": "A Commerce Reporter seat at the New York Post would let me return to the byline \u2014 but smarter than I left it. I now know what marketing looks like from the inside (Salesforce, Sprinklr, affiliate-style SEO copy), which means I can write commerce that earns clicks without losing the room.",
+      "salary_min": 65000.0,
+      "salary_max": 75000.0,
+      "match_score": 84.0,
+      "is_wny": false,
+      "is_nyc": true,
+      "is_remote": false,
+      "key_skills": [
+        "Reporting",
+        "SEO",
+        "Affiliate Content",
+        "Digital Newsroom"
+      ],
+      "benefits_highlights": [
+        "Health insurance"
+      ],
+      "match_reasons": [
+        "Reporter-to-editor track already proven",
+        "SEO is on resume",
+        "NY Post is a clear journalism return"
+      ],
+      "status": "open"
+    },
+    {
       "id": "viaduct-content-specialist-rfp",
       "title": "Content Specialist (RFP / Design)",
       "company": "Viaduct (an Aleron Company)",
@@ -952,9 +1094,9 @@
       "url": "https://www.linkedin.com/jobs/view/content-specialist-rfp-design-at-viaduct-an-aleron-company-4396312508",
       "description": "",
       "cover_letter_opener": "The Content Specialist role at Viaduct reads like a librarian-editor hybrid \u2014 and that's a lane I love. At RIED I serve as the primary copywriter for press releases, brochures, annual reports and email campaigns across multiple centers and institutes, holding the brand voice steady across all of them. I'd bring that same discipline to Viaduct's RFP library.",
-      "salary_min": 65000,
-      "salary_max": 80000,
-      "match_score": 84,
+      "salary_min": 65000.0,
+      "salary_max": 80000.0,
+      "match_score": 84.0,
       "is_wny": true,
       "is_nyc": false,
       "is_remote": false,
@@ -977,104 +1119,34 @@
       "status": "open"
     },
     {
-      "id": "peloton-copywriter-ii",
-      "title": "Copywriter II",
-      "company": "Peloton Interactive",
+      "id": "we-are-social-copywriter",
+      "title": "Copywriter",
+      "company": "We Are Social",
       "location": "New York, NY",
       "location_type": "Hybrid",
-      "posted_date": "2026-05-19",
+      "posted_date": "2026-05-17",
       "salary": "",
       "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/copywriter-ii-at-peloton-interactive-4412819722",
+      "url": "https://www.linkedin.com/jobs/view/copywriter-at-we-are-social-4375055580",
       "description": "",
-      "cover_letter_opener": "Peloton's brand voice has always lived in the same emotional register I write in for The Riff on Medium \u2014 the moment when a song lands and you actually move. Bringing that ear to a Copywriter II seat at Peloton, where the copy has to land in 30 seconds on a phone, sounds like a great trade of skills.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 84,
+      "cover_letter_opener": "Most copywriters can write a headline; fewer know what happens to it once it hits a feed. I do \u2014 I've grown a research office's LinkedIn audience 226,500 percent from inception by writing for the algorithm without writing down to it. I'd bring that ear to We Are Social.",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 83.0,
       "is_wny": false,
       "is_nyc": true,
       "is_remote": false,
       "key_skills": [
-        "Copywriting",
-        "Email Marketing",
-        "Brand Voice",
-        "Lifestyle/Wellness"
+        "Social-First Copy",
+        "Brand Campaigns",
+        "Agency"
       ],
       "benefits_highlights": [
-        "Peloton full benefits"
+        "Agency benefits"
       ],
       "match_reasons": [
-        "Music-and-movement adjacency (Maddie writes for The Riff)",
-        "NYC hybrid",
-        "Brand voice fluency"
-      ],
-      "status": "open"
-    },
-    {
-      "id": "nypost-commerce-reporter",
-      "title": "Commerce Reporter",
-      "company": "New York Post",
-      "location": "New York, NY",
-      "location_type": "On-site",
-      "posted_date": "2026-05-18",
-      "salary": "",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/viewjob?jk=eb25805d6627bb43",
-      "description": "",
-      "cover_letter_opener": "A Commerce Reporter seat at the New York Post would let me return to the byline \u2014 but smarter than I left it. I now know what marketing looks like from the inside (Salesforce, Sprinklr, affiliate-style SEO copy), which means I can write commerce that earns clicks without losing the room.",
-      "salary_min": 65000,
-      "salary_max": 75000,
-      "match_score": 84,
-      "is_wny": false,
-      "is_nyc": true,
-      "is_remote": false,
-      "key_skills": [
-        "Reporting",
-        "SEO",
-        "Affiliate Content",
-        "Digital Newsroom"
-      ],
-      "benefits_highlights": [
-        "Health insurance"
-      ],
-      "match_reasons": [
-        "Reporter-to-editor track already proven",
-        "SEO is on resume",
-        "NY Post is a clear journalism return"
-      ],
-      "status": "open"
-    },
-    {
-      "id": "ncm-comms-content-manager",
-      "title": "Communications & Content Manager",
-      "company": "NCM Associates",
-      "location": "Remote (Kansas City base)",
-      "location_type": "Remote",
-      "posted_date": "2026-05-19",
-      "salary": "",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/communications-and-content-manager-at-ncm-associates-4397893669",
-      "description": "",
-      "cover_letter_opener": "Reading the NCM Communications & Content Manager description is like reading my current job description, lifted to a slightly different industry. Internal and external comms held together by one editor \u2014 that's the seat I'm in at UB today, and I'd be glad to bring it to your team.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 84,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": true,
-      "key_skills": [
-        "Internal Comms",
-        "External Comms",
-        "Editorial",
-        "Content Production"
-      ],
-      "benefits_highlights": [
-        "NCM full benefits"
-      ],
-      "match_reasons": [
-        "Mirrors Maddie's current responsibilities",
-        "Remote",
-        "Internal + external comms scope"
+        "Social-first matches Maddie's biggest demonstrated skill",
+        "NYC hybrid agency"
       ],
       "status": "open"
     },
@@ -1090,9 +1162,9 @@
       "url": "https://www.linkedin.com/jobs/view/public-relations-assistant-account-executive-at-inkhouse-an-orchestra-company-4410198856",
       "description": "",
       "cover_letter_opener": "An Inkhouse AAE role would let me run the media-monitoring, editorial-calendar and briefing-doc work I genuinely love, inside a PR shop that takes its sources seriously. As a former Junior Editor at The Daily Caller News Foundation, reading the news and spotting what matters is muscle memory \u2014 and I'd be glad to confirm whether Buffalo-based hybrid fits your team's plans for this seat.",
-      "salary_min": 60000,
-      "salary_max": 70000,
-      "match_score": 83,
+      "salary_min": 60000.0,
+      "salary_max": 70000.0,
+      "match_score": 83.0,
       "is_wny": true,
       "is_nyc": false,
       "is_remote": false,
@@ -1126,9 +1198,9 @@
       "url": "https://www.linkedin.com/jobs/view/influencer-performance-content-coordinator-hybrid-role-new-york-at-olaplex-4405454674",
       "description": "",
       "cover_letter_opener": "I'm a Coordinator who runs the actual numbers behind growth \u2014 at UB I averaged ~94 new LinkedIn followers per month with a strict editorial calendar, not luck. OLAPLEX's Influencer Performance & Content Coordinator seat is the same shape of job at consumer scale, and I'd love to bring that same discipline to your creator pipeline.",
-      "salary_min": 60000,
-      "salary_max": 70000,
-      "match_score": 83,
+      "salary_min": 60000.0,
+      "salary_max": 70000.0,
+      "match_score": 83.0,
       "is_wny": false,
       "is_nyc": true,
       "is_remote": false,
@@ -1154,75 +1226,6 @@
       "status": "open"
     },
     {
-      "id": "we-are-social-copywriter",
-      "title": "Copywriter",
-      "company": "We Are Social",
-      "location": "New York, NY",
-      "location_type": "Hybrid",
-      "posted_date": "2026-05-17",
-      "salary": "",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/copywriter-at-we-are-social-4375055580",
-      "description": "",
-      "cover_letter_opener": "Most copywriters can write a headline; fewer know what happens to it once it hits a feed. I do \u2014 I've grown a research office's LinkedIn audience 226,500 percent from inception by writing for the algorithm without writing down to it. I'd bring that ear to We Are Social.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 83,
-      "is_wny": false,
-      "is_nyc": true,
-      "is_remote": false,
-      "key_skills": [
-        "Social-First Copy",
-        "Brand Campaigns",
-        "Agency"
-      ],
-      "benefits_highlights": [
-        "Agency benefits"
-      ],
-      "match_reasons": [
-        "Social-first matches Maddie's biggest demonstrated skill",
-        "NYC hybrid agency"
-      ],
-      "status": "open"
-    },
-    {
-      "id": "ubmd-emergency-medicine-mktg-specialist",
-      "title": "Marketing Specialist",
-      "company": "UBMD Emergency Medicine",
-      "location": "Buffalo, NY",
-      "location_type": "Hybrid",
-      "posted_date": "2026-05-15",
-      "salary": "",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/viewjob?jk=2596e5cbc4a0d941",
-      "description": "",
-      "cover_letter_opener": "UBMD Emergency Medicine sits at the intersection of two worlds I already work between every day \u2014 academic medicine and patient-facing marketing. My RIED communications work routinely involves UB physician-scientists and clinical trials; building marketing specifically for the ER side of that ecosystem would be a natural next chapter.",
-      "salary_min": 50000,
-      "salary_max": 60000,
-      "match_score": 82,
-      "is_wny": true,
-      "is_nyc": false,
-      "is_remote": false,
-      "key_skills": [
-        "Digital Marketing",
-        "Social Media Management",
-        "Healthcare Marketing"
-      ],
-      "benefits_highlights": [
-        "Health insurance",
-        "Dental insurance",
-        "Retirement plan",
-        "Paid time off"
-      ],
-      "match_reasons": [
-        "UB-adjacent network",
-        "Hybrid Buffalo",
-        "Social media is a strength",
-        "Healthcare benefits explicit"
-      ],
-      "status": "open"
-    },
-    {
       "id": "penguin-ten-speed-press-editor",
       "title": "Editor, Ten Speed Press",
       "company": "Penguin Random House",
@@ -1234,9 +1237,9 @@
       "url": "https://www.indeed.com/viewjob?jk=df2014b3ed37575e",
       "description": "",
       "cover_letter_opener": "I've been an editor on tight deadlines in a newsroom and an editor on long arcs at UB; the Ten Speed Press seat is the kind of editorial work where both rhythms meet. I'd love to bring my project-management instincts (Basecamp/Asana/Monday daily) and my obvious affection for lifestyle and music writing to an imprint that already publishes the books I read.",
-      "salary_min": 73500,
-      "salary_max": 80000,
-      "match_score": 82,
+      "salary_min": 73500.0,
+      "salary_max": 80000.0,
+      "match_score": 82.0,
       "is_wny": false,
       "is_nyc": true,
       "is_remote": false,
@@ -1261,36 +1264,39 @@
       "status": "open"
     },
     {
-      "id": "delta-dental-ma-marketing-content-mgr",
-      "title": "Marketing Content Manager",
-      "company": "Delta Dental of Massachusetts",
-      "location": "Remote (US)",
-      "location_type": "Remote",
-      "posted_date": "2026-05-02",
+      "id": "ubmd-emergency-medicine-mktg-specialist",
+      "title": "Marketing Specialist",
+      "company": "UBMD Emergency Medicine",
+      "location": "Buffalo, NY",
+      "location_type": "Hybrid",
+      "posted_date": "2026-05-15",
       "salary": "",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/marketing-content-manager-at-delta-dental-of-massachusetts-4417193020",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/viewjob?jk=2596e5cbc4a0d941",
       "description": "",
-      "cover_letter_opener": "Mission-driven healthcare comms is a lane I know well from UB's medical and research-tech work. Delta Dental of MA's Marketing Content Manager role is an ideal blend \u2014 mission, healthcare, content strategy, remote \u2014 and I'd love to be part of it.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 82,
-      "is_wny": false,
+      "cover_letter_opener": "UBMD Emergency Medicine sits at the intersection of two worlds I already work between every day \u2014 academic medicine and patient-facing marketing. My RIED communications work routinely involves UB physician-scientists and clinical trials; building marketing specifically for the ER side of that ecosystem would be a natural next chapter.",
+      "salary_min": 50000.0,
+      "salary_max": 60000.0,
+      "match_score": 82.0,
+      "is_wny": true,
       "is_nyc": false,
-      "is_remote": true,
+      "is_remote": false,
       "key_skills": [
-        "Content Strategy",
-        "Healthcare Marketing",
-        "Copywriting",
-        "Digital Marketing"
+        "Digital Marketing",
+        "Social Media Management",
+        "Healthcare Marketing"
       ],
       "benefits_highlights": [
-        "Delta Dental benefits"
+        "Health insurance",
+        "Dental insurance",
+        "Retirement plan",
+        "Paid time off"
       ],
       "match_reasons": [
-        "Mission-driven + healthcare",
-        "Remote",
-        "Manager-level step up"
+        "UB-adjacent network",
+        "Hybrid Buffalo",
+        "Social media is a strength",
+        "Healthcare benefits explicit"
       ],
       "status": "open"
     },
@@ -1306,9 +1312,9 @@
       "url": "https://www.indeed.com/viewjob?jk=81e6770051a6257d",
       "description": "",
       "cover_letter_opener": "Higher-ed storytelling that actually earns the click is a craft I've been refining at UB. Ball State's Social Media & Content Specialist role lets me keep doing that work, from anywhere \u2014 and bring a Buffalo-trained eye for the kind of story your testimonial pipeline needs.",
-      "salary_min": 42000,
-      "salary_max": 47000,
-      "match_score": 82,
+      "salary_min": 42000.0,
+      "salary_max": 47000.0,
+      "match_score": 82.0,
       "is_wny": false,
       "is_nyc": false,
       "is_remote": true,
@@ -1333,6 +1339,40 @@
       "status": "open"
     },
     {
+      "id": "delta-dental-ma-marketing-content-mgr",
+      "title": "Marketing Content Manager",
+      "company": "Delta Dental of Massachusetts",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "posted_date": "2026-05-02",
+      "salary": "",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/marketing-content-manager-at-delta-dental-of-massachusetts-4417193020",
+      "description": "",
+      "cover_letter_opener": "Mission-driven healthcare comms is a lane I know well from UB's medical and research-tech work. Delta Dental of MA's Marketing Content Manager role is an ideal blend \u2014 mission, healthcare, content strategy, remote \u2014 and I'd love to be part of it.",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 82.0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": true,
+      "key_skills": [
+        "Content Strategy",
+        "Healthcare Marketing",
+        "Copywriting",
+        "Digital Marketing"
+      ],
+      "benefits_highlights": [
+        "Delta Dental benefits"
+      ],
+      "match_reasons": [
+        "Mission-driven + healthcare",
+        "Remote",
+        "Manager-level step up"
+      ],
+      "status": "open"
+    },
+    {
       "id": "hiller-comerford-mktg-digital-content",
       "title": "Marketing & Digital Content Specialist",
       "company": "Hiller Comerford Injury & Disability Law",
@@ -1344,9 +1384,9 @@
       "url": "https://www.indeed.com/viewjob?jk=3b99c0efc149797a",
       "description": "",
       "cover_letter_opener": "A law-firm marketing seat is a natural fit for me \u2014 'compliance and legal copy' is already a line on my resume from running RIED's regulatory communications, and as a former newsroom editor I'm fluent in turning legal documents into clear language for general readers. I'd bring WordPress, Adobe Suite and a journalist's nose for accuracy to Hiller Comerford.",
-      "salary_min": 50000,
-      "salary_max": 65000,
-      "match_score": 80,
+      "salary_min": 50000.0,
+      "salary_max": 65000.0,
+      "match_score": 80.0,
       "is_wny": true,
       "is_nyc": false,
       "is_remote": false,
@@ -1383,9 +1423,9 @@
       "url": "https://www.linkedin.com/jobs/view/sr-content-marketing-and-communications-manager-at-tufin-4410616552",
       "description": "",
       "cover_letter_opener": "Tufin's Sr. Content Marketing & Communications Manager seat asks for one person who can hold strategy, copy, PR and digital together. That's the seat I sit in at UB, just at a research-institution scale; I'd be excited to bring that range to a remote SaaS company.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 80,
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 80.0,
       "is_wny": false,
       "is_nyc": false,
       "is_remote": true,
@@ -1417,9 +1457,9 @@
       "url": "https://www.indeed.com/viewjob?jk=a829fd74225ee794",
       "description": "",
       "cover_letter_opener": "A Group Copy Supervisor seat at Synchrony lets me grow into the editor role I've quietly been preparing for \u2014 multi-format healthcare copy and the responsibility of holding a team's voice steady. I'd bring my Junior Editor instincts and my UB multi-channel range to your group.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 80,
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "match_score": 80.0,
       "is_wny": false,
       "is_nyc": false,
       "is_remote": true,
@@ -1441,79 +1481,6 @@
       "status": "open"
     },
     {
-      "id": "olmsted-marketing-comms-assistant",
-      "title": "Marketing and Communications Assistant",
-      "company": "Buffalo Olmsted Parks Conservancy",
-      "location": "Buffalo, NY (Delaware Park)",
-      "location_type": "On-site",
-      "posted_date": "2026-05-15",
-      "salary": "",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/viewjob?jk=1c89720dbb1a32ed",
-      "description": "",
-      "cover_letter_opener": "Olmsted's parks are, in a real sense, Buffalo's first public-facing brand. The Marketing and Communications Assistant role would let me bring the event-coordination muscle I built leading RIED's United Way campaign \u2014 which raised 98% of our fundraising goal in its first year \u2014 to the Conservancy's media-event work, and write the reports that show the city what its parks are doing.",
-      "salary_min": 45240,
-      "salary_max": 52000,
-      "match_score": 78,
-      "is_wny": true,
-      "is_nyc": false,
-      "is_remote": false,
-      "key_skills": [
-        "Media Coverage Reporting",
-        "Social Analytics",
-        "Event Comms"
-      ],
-      "benefits_highlights": [
-        "Health insurance",
-        "401(k)",
-        "Retirement plan",
-        "PTO",
-        "Vision",
-        "HSA"
-      ],
-      "match_reasons": [
-        "Mission-driven Buffalo nonprofit",
-        "Event coordination experience (UB United Way campaign)",
-        "Reporting + analytics overlap"
-      ],
-      "status": "open"
-    },
-    {
-      "id": "rice-fondren-comms-mktg-spec",
-      "title": "Communications & Marketing Specialist I (Fondren Library)",
-      "company": "Rice University",
-      "location": "Houston, TX (Hybrid)",
-      "location_type": "Hybrid",
-      "posted_date": "2026-05-17",
-      "salary": "",
-      "source": "HERC",
-      "url": "https://main.hercjobs.org/jobs/22282207/communications-and-marketing-specialist-i",
-      "description": "",
-      "cover_letter_opener": "Rice's Fondren Library role is a beautiful skills match \u2014 newsletter writing, Adobe Suite, AP Style, social and event support \u2014 and I'd love to talk through whether the hybrid arrangement can accommodate a Buffalo-based candidate, or whether a Houston relocation is on the table.",
-      "salary_min": 56000,
-      "salary_max": 60000,
-      "match_score": 78,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": true,
-      "key_skills": [
-        "Newsletter",
-        "Adobe Creative Suite",
-        "Social Media",
-        "AP Style",
-        "Mailchimp"
-      ],
-      "benefits_highlights": [
-        "Rice full benefits (health, retirement, tuition)"
-      ],
-      "match_reasons": [
-        "Strong skills alignment",
-        "Hybrid (mostly remote) Houston \u2014 would require relocation",
-        "Higher-ed peer"
-      ],
-      "status": "open"
-    },
-    {
       "id": "2026-05-25_61dd0df732",
       "title": "Communications Consultant (Employee Benefits)",
       "company": "Jobgether (partner company)",
@@ -1525,9 +1492,9 @@
       "url": "https://www.linkedin.com/jobs/view/communications-consultant-employee-benefits-at-jobgether-4417137542",
       "description": "Consulting-focused role translating complex benefits information into clear employee communications and engagement materials.",
       "cover_letter_opener": "I\u2019m interested in the Communications Consultant (Employee Benefits) role because it sits at the intersection of clarity, empathy, and strategy\u2014exactly where my best work happens. In communications roles and earlier as an editor/reporter, I\u2019ve translated complex policies and technical details into concise, reader-friendly messages that drive action. I\u2019d welcome the chance to bring that same disciplined writing and stakeholder-focused approach to benefits communications for your clients.",
-      "salary_min": 65000,
-      "salary_max": 85000,
-      "match_score": 78,
+      "salary_min": 65000.0,
+      "salary_max": 85000.0,
+      "match_score": 78.0,
       "is_wny": false,
       "is_nyc": false,
       "is_remote": true,
@@ -1561,9 +1528,9 @@
       "url": "https://www.daybook.com/job/advancement-communications-coordinator-MoXvQqqtvEs43mtTW",
       "description": "Maintain donor records in Raiser's Edge NXT; process donations; create acknowledgment letters; support stewardship communications; create and schedule social content; collaborate across teams; admin support for fundraising initiatives.",
       "cover_letter_opener": "I\u2019m excited about Jericho Road\u2019s mission and the chance to combine donor-centered storytelling with hands-on communications support. In my current role coordinating communications and marketing at the University at Buffalo\u2019s RIED, I manage multi-channel updates, maintain message consistency, and track engagement\u2014work I\u2019d love to apply to advancing Jericho Road\u2019s fundraising and advocacy goals.",
-      "salary_min": 22,
-      "salary_max": 24,
-      "match_score": 78,
+      "salary_min": 22.0,
+      "salary_max": 24.0,
+      "match_score": 78.0,
       "is_wny": true,
       "is_nyc": false,
       "is_remote": false,
@@ -1589,6 +1556,79 @@
       "status": "open"
     },
     {
+      "id": "rice-fondren-comms-mktg-spec",
+      "title": "Communications & Marketing Specialist I (Fondren Library)",
+      "company": "Rice University",
+      "location": "Houston, TX (Hybrid)",
+      "location_type": "Hybrid",
+      "posted_date": "2026-05-17",
+      "salary": "",
+      "source": "HERC",
+      "url": "https://main.hercjobs.org/jobs/22282207/communications-and-marketing-specialist-i",
+      "description": "",
+      "cover_letter_opener": "Rice's Fondren Library role is a beautiful skills match \u2014 newsletter writing, Adobe Suite, AP Style, social and event support \u2014 and I'd love to talk through whether the hybrid arrangement can accommodate a Buffalo-based candidate, or whether a Houston relocation is on the table.",
+      "salary_min": 56000.0,
+      "salary_max": 60000.0,
+      "match_score": 78.0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": true,
+      "key_skills": [
+        "Newsletter",
+        "Adobe Creative Suite",
+        "Social Media",
+        "AP Style",
+        "Mailchimp"
+      ],
+      "benefits_highlights": [
+        "Rice full benefits (health, retirement, tuition)"
+      ],
+      "match_reasons": [
+        "Strong skills alignment",
+        "Hybrid (mostly remote) Houston \u2014 would require relocation",
+        "Higher-ed peer"
+      ],
+      "status": "open"
+    },
+    {
+      "id": "olmsted-marketing-comms-assistant",
+      "title": "Marketing and Communications Assistant",
+      "company": "Buffalo Olmsted Parks Conservancy",
+      "location": "Buffalo, NY (Delaware Park)",
+      "location_type": "On-site",
+      "posted_date": "2026-05-15",
+      "salary": "",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/viewjob?jk=1c89720dbb1a32ed",
+      "description": "",
+      "cover_letter_opener": "Olmsted's parks are, in a real sense, Buffalo's first public-facing brand. The Marketing and Communications Assistant role would let me bring the event-coordination muscle I built leading RIED's United Way campaign \u2014 which raised 98% of our fundraising goal in its first year \u2014 to the Conservancy's media-event work, and write the reports that show the city what its parks are doing.",
+      "salary_min": 45240.0,
+      "salary_max": 52000.0,
+      "match_score": 78.0,
+      "is_wny": true,
+      "is_nyc": false,
+      "is_remote": false,
+      "key_skills": [
+        "Media Coverage Reporting",
+        "Social Analytics",
+        "Event Comms"
+      ],
+      "benefits_highlights": [
+        "Health insurance",
+        "401(k)",
+        "Retirement plan",
+        "PTO",
+        "Vision",
+        "HSA"
+      ],
+      "match_reasons": [
+        "Mission-driven Buffalo nonprofit",
+        "Event coordination experience (UB United Way campaign)",
+        "Reporting + analytics overlap"
+      ],
+      "status": "open"
+    },
+    {
       "id": "five-star-marketing-ops-manager",
       "title": "Marketing Operations Manager",
       "company": "Five Star Bank",
@@ -1600,9 +1640,9 @@
       "url": "https://www.indeed.com/viewjob?jk=28cd9c5bb812db9a",
       "description": "",
       "cover_letter_opener": "Five Star's Marketing Operations Manager seat is the kind of role I'm ready to grow into. I already sit between an internal team and outside vendors at UB, holding campaigns together across print, digital and event lanes for the Realizing AI for Good initiative and several other research-led brands. Bringing that operating discipline to a Buffalo-headquartered bank is a clean step up.",
-      "salary_min": 75000,
-      "salary_max": 100000,
-      "match_score": 76,
+      "salary_min": 75000.0,
+      "salary_max": 100000.0,
+      "match_score": 76.0,
       "is_wny": true,
       "is_nyc": false,
       "is_remote": false,
@@ -1638,9 +1678,9 @@
       "url": "https://www.linkedin.com/jobs/view/manager-of-public-relations-at-o-melveny-myers-llp-4417345509",
       "description": "Deputy PR professional supporting Director of Communications; secure media/bylines, draft press releases, manage awards processes, and staff interviews.",
       "cover_letter_opener": "I\u2019m excited to apply for the Manager of Public Relations role at O\u2019Melveny. In my current communications and marketing work and in prior newsroom roles, I\u2019ve built a track record of turning complex topics into clear, compelling stories and pitching them for visibility. I\u2019d love to bring that same disciplined writing, media responsiveness, and client-service mindset to support the firm\u2019s communications team in New York.",
-      "salary_min": 130000,
-      "salary_max": 170000,
-      "match_score": 72,
+      "salary_min": 130000.0,
+      "salary_max": 170000.0,
+      "match_score": 72.0,
       "is_wny": false,
       "is_nyc": true,
       "is_remote": false,
@@ -1674,9 +1714,9 @@
       "url": "https://www.linkedin.com/jobs/view/public-relations-manager-at-moog-inc-4414926257",
       "description": "",
       "cover_letter_opener": "I'm putting myself forward as a stretch candidate for the PR Manager role because the job description is the job I've been quietly building toward. Today at UB I draft the press releases, manage the rapid-response cycle when federal policy shifts overnight, and own the media relationships our Vice Presidents lean on. With two Moog references already in my corner and a Ragan PR certificate finished last summer, I'd love a conversation.",
-      "salary_min": 150000,
-      "salary_max": 180000,
-      "match_score": 70,
+      "salary_min": 150000.0,
+      "salary_max": 180000.0,
+      "match_score": 70.0,
       "is_wny": true,
       "is_nyc": false,
       "is_remote": false,
@@ -1704,44 +1744,76 @@
       "status": "open"
     },
     {
-      "id": "the-contrarian-via-remotehunter-communications-assistant-the-contrarian",
-      "title": "Communications Assistant, The Contrarian",
-      "company": "The Contrarian (via RemoteHunter)",
+      "title": "Marketing Manager",
+      "company": "Precious Plate, Inc",
+      "location": "Wheatfield, NY 14304",
+      "location_type": "In person",
+      "posted_date": "New (within last week)",
+      "salary": "$80k-$100k",
+      "salary_min": 80000.0,
+      "salary_max": 100000.0,
+      "source": "Indeed",
+      "url": "https://www.indeed.com/q-remote-marketing-l-buffalo,-ny-jobs.html",
+      "description": "In-person Marketing Manager near Buffalo area; listing highlights comprehensive benefits including health insurance.",
+      "benefits_highlights": [
+        "Health insurance",
+        "401(k) matching",
+        "Tuition reimbursement",
+        "PTO"
+      ],
+      "key_skills": [
+        "Marketing campaigns",
+        "Social media",
+        "Reporting/analytics",
+        "Cross-functional coordination"
+      ],
+      "id": "precious-plate-inc-marketing-manager-7f94355e",
+      "cover_letter_opener": "I\u2019m interested in Precious Plate\u2019s Marketing Manager opening because it blends brand-building with practical, multi-channel execution, including social content and campaign reporting. In my role as a communications and marketing coordinator at UB, I manage messaging across platforms and use performance insights to refine what we publish, and my editorial background helps me keep content crisp, consistent, and on-brand.",
+      "status": "open",
+      "match_score": 55,
+      "is_wny": true,
+      "is_nyc": false,
+      "is_remote": false,
+      "match_reasons": [
+        "WNY location match",
+        "Listing explicitly includes healthcare benefits"
+      ]
+    },
+    {
+      "title": "Public Relations Specialist",
+      "company": "Coalition Technologies",
       "location": "United States",
-      "location_type": "remote",
-      "posted_date": "2026-05-28",
-      "salary": "$55,000-$80,000",
+      "location_type": "Remote",
+      "posted_date": "1 day ago",
+      "salary": "$15-$35/hr (NY/CA/WA/CO noted)",
+      "salary_min": 15.0,
+      "salary_max": 35.0,
       "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/communications-assistant-the-contrarian-at-remotehunter-4417198111",
-      "description": "Assist communications team with digital strategy; draft/edit/publish social posts; update Substack and website; support video production; monitor media coverage; research reporters and narratives.",
-      "cover_letter_opener": "I\u2019m excited to apply for the Communications Assistant role supporting The Contrarian because it blends fast-moving news awareness with clear, audience-first writing. In my current communications work at UB RIED and in prior newsroom roles, I\u2019ve translated complex topics into accurate, engaging copy and kept content calendars moving under tight deadlines. I\u2019d love to bring that editorial rigor to your Substack and social channels while helping the team respond quickly to breaking narratives.",
-      "salary_min": 0,
-      "salary_max": 0,
-      "match_score": 86,
+      "url": "https://www.linkedin.com/jobs/view/public-relations-specialist-at-coalition-technologies-4416198516",
+      "description": "Remote PR Specialist role; includes medical/dental/vision/life insurance and profit-sharing per listing.",
+      "benefits_highlights": [
+        "Medical, dental, vision, and life insurance",
+        "Profit-sharing bonus plan",
+        "Paid time off"
+      ],
+      "key_skills": [
+        "Public relations",
+        "Media pitching",
+        "Writing",
+        "Client communications"
+      ],
+      "id": "coalition-technologies-public-relations-specialist-1e5a22f3",
+      "cover_letter_opener": "I\u2019m excited to apply for Coalition Technologies\u2019 Public Relations Specialist role because it combines hands-on media relations with clear, measurable outcomes in a remote-first environment. In my current communications and marketing coordinator role at the University at Buffalo, I translate complex work into stories that earn attention, and my reporting background has trained me to pitch and write with precision and speed.",
+      "status": "open",
+      "match_score": 55,
       "is_wny": false,
       "is_nyc": false,
       "is_remote": true,
-      "key_skills": [
-        "Writing/editing",
-        "Social media",
-        "Substack",
-        "News monitoring",
-        "Research",
-        "Video collaboration"
-      ],
-      "benefits_highlights": [
-        "Health insurance (100% employee coverage)",
-        "401(k) with matching",
-        "Tech and home office stipends",
-        "Access to coworking spaces",
-        "20+ days PTO + 12 holidays"
-      ],
       "match_reasons": [
-        "Strong alignment with your reporting/editing background and AP Style strength.",
-        "Role explicitly involves maintaining Substack content, matching your Substack + The Riff writing work.",
-        "Hands-on social content drafting across multiple platforms; you have Sprinklr and comms coordination experience."
-      ],
-      "status": "open"
+        "Direct PR/communications fit with current UB RIED comms role",
+        "Remote-friendly role expands geographic options",
+        "Listing explicitly includes healthcare benefits"
+      ]
     }
   ]
 }
