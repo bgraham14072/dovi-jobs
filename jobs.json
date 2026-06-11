@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10",
+  "last_updated": "2026-06-11",
   "jobs": [
     {
       "id": "field-fork-digital-engagement-mgr",
@@ -1637,32 +1637,33 @@
       "is_remote": false
     },
     {
-      "title": "Senior Copywriter",
-      "company": "FINN Partners",
+      "title": "Content Marketing Manager",
+      "company": "4MindsAI Inc.",
       "location": "United States",
       "location_type": "remote",
       "posted_date": "2026-06-10",
-      "salary": "$80,000 – $100,000/year",
-      "url": "https://www.finnpartners.com/job/senior-copywriter/",
-      "description": "Crafts sharp, concept-driven copy across broadcast, digital, and social channels for one of the largest independent PR and communications agencies in the world. Translates strategy into integrated campaign systems and collaborates with art directors and strategists to elevate every creative touchpoint.",
+      "salary": "$130,000 – $160,000/year",
+      "url": "https://remotive.com/remote/jobs/marketing/content-marketing-manager-4904985",
+      "description": "Own the content calendar end-to-end for an AI/data analytics startup, producing blog content, customer case studies, executive thought leadership, and website copy. Coordinates PR efforts and builds AI-assisted content production workflows.",
       "key_skills": [
-        "Copywriting",
-        "Campaign concepting",
-        "Integrated marketing",
-        "Brand storytelling",
-        "PR communications",
-        "Script writing",
-        "Content strategy",
-        "Agency workflow"
+        "content marketing",
+        "editorial calendar",
+        "copywriting",
+        "PR support",
+        "content strategy",
+        "AI writing tools",
+        "SEO",
+        "B2B SaaS"
       ],
-      "match_score": 74,
+      "match_score": 75,
       "match_reasons": [
-        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
-        "Copy-focused — pairs with her Substack and The Riff writing portfolio"
+        "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation",
+        "Copy-focused — pairs with her Substack and The Riff writing portfolio",
+        "Content marketing aligns with her current RIED work (Research Matters newsletter, 7-9% CTOR)"
       ],
-      "cover_letter_opener": "Dear FINN Partners Hiring Team,\n\nI'm writing to express my interest in the Senior Copywriter role at FINN Partners. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of crafting copy that earns attention and trust. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "finn-partners-senior-copywriter",
-      "source": "www.finnpartners.com",
+      "cover_letter_opener": "Dear 4MindsAI Inc. Hiring Team,\n\nI'm writing to express my interest in the Content Marketing Manager role at 4MindsAI Inc.. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of editing for clarity, voice, and pace. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "4mindsai-inc-content-marketing-manager",
+      "source": "remotive.com",
       "status": "open",
       "benefits_highlights": [
         "Healthcare benefits (full-time)"
@@ -1674,31 +1675,108 @@
       "is_remote": false
     },
     {
-      "title": "Multi-Skilled Journalist",
-      "company": "TEGNA Inc. (WGRZ-TV Buffalo)",
+      "title": "Senior Digital Marketing Analytics Professional (Social Media)",
+      "company": "Humana (Conviva / CenterWell)",
+      "location": "United States",
+      "location_type": "remote",
+      "posted_date": "2026-06-09",
+      "salary": "Not disclosed",
+      "url": "https://jobs.digitalhire.com/job-listing/w/remote/j/full-time/t/marketing",
+      "description": "Lead social media strategy and organic/paid campaign execution for Humana's Primary Care Organization brands, including editorial calendar management across Facebook, Instagram, YouTube, and LinkedIn. Analyzes performance via Google Analytics and Adobe Analytics to support senior care marketing.",
+      "key_skills": [
+        "social media strategy",
+        "content marketing",
+        "editorial calendar",
+        "brand management",
+        "Sprout Social",
+        "Sprinklr",
+        "analytics",
+        "multi-platform campaigns"
+      ],
+      "match_score": 74,
+      "match_reasons": [
+        "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation",
+        "Content marketing aligns with her current RIED work (Research Matters newsletter, 7-9% CTOR)",
+        "She grew RIED LinkedIn 226,500% — a clear social media strength"
+      ],
+      "cover_letter_opener": "Dear Humana (Conviva / CenterWell) Hiring Team,\n\nI'm writing to express my interest in the Senior Digital Marketing Analytics Professional (Social Media) role at Humana (Conviva / CenterWell). In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of editing for clarity, voice, and pace. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "humana-conviva-centerwell-senior-digital-marketing-analytics-professional-social",
+      "source": "jobs.digitalhire.com",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Marketing and Communication Manager",
+      "company": "OWM Integrative Wellness",
       "location": "Buffalo, NY",
       "location_type": "in-person",
-      "posted_date": "2026-06-07",
-      "salary": "$24.04 – $25.00/hour",
-      "url": "https://job-boards.greenhouse.io/tegnainc/jobs/5147874007",
-      "description": "Full-time on-site journalist role at NBC affiliate WGRZ-TV in Buffalo, producing and reporting stories across broadcast, digital, and social platforms. TEGNA provides comprehensive health benefits including medical (BCBS), dental, vision, adoption assistance, life insurance, disability coverage, and 401(k).",
+      "posted_date": "2026-06-11",
+      "salary": "$75,000 - $90,000 per year + annual bonus",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/3rAK0ThSyQ7bqmGdNO6VWu",
+      "description": "Full-time marketing and communications manager role at an independent integrative medical practice in Buffalo, responsible for developing and executing comprehensive marketing and communication strategies across social media, email, PR, and events. Reports directly to the CEO and COO.",
       "key_skills": [
-        "broadcast journalism",
-        "video editing",
-        "digital storytelling",
-        "social media reporting",
-        "live reporting",
-        "photography",
-        "AP style writing"
+        "healthcare marketing",
+        "social media management",
+        "email marketing",
+        "PR/media relations",
+        "content creation",
+        "campaign strategy",
+        "KPI reporting"
       ],
       "match_score": 73,
       "match_reasons": [
-        "Maps to her reporting background at Daily Caller News Foundation",
+        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
         "She grew RIED LinkedIn 226,500% — a clear social media strength",
+        "Wellness/health angle — adjacent to UB RIED research-translation work",
         "Health communications crossover with UB RIED research work"
       ],
-      "cover_letter_opener": "Dear TEGNA Inc. (WGRZ-TV Buffalo) Hiring Team,\n\nI'm writing to express my interest in the Multi-Skilled Journalist role at TEGNA Inc. (WGRZ-TV Buffalo). In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "tegna-inc-wgrz-tv-buffalo-multi-skilled-journalist",
+      "cover_letter_opener": "Dear OWM Integrative Wellness Hiring Team,\n\nI'm writing to express my interest in the Marketing and Communication Manager role at OWM Integrative Wellness. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "owm-integrative-wellness-marketing-and-communication-manager",
+      "source": "jobs.digitalhire.com",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Public Relations Manager",
+      "company": "Huge",
+      "location": "United States",
+      "location_type": "remote",
+      "posted_date": "2026-06-10",
+      "salary": "$85,000 – $110,000/year",
+      "url": "https://job-boards.greenhouse.io/hugeinc/jobs/7872637",
+      "description": "Manage external communications plans, media relations, press releases, and award submissions for a global design and technology company. Pitches speaking opportunities, coaches senior leaders, monitors reputational risks, and supports LinkedIn/Instagram social media content.",
+      "key_skills": [
+        "public relations",
+        "media relations",
+        "press releases",
+        "communications strategy",
+        "social media",
+        "brand storytelling",
+        "award submissions",
+        "crisis communications"
+      ],
+      "match_score": 73,
+      "match_reasons": [
+        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
+        "She grew RIED LinkedIn 226,500% — a clear social media strength",
+        "Holds the Ragan Communications PR Certificate (2025)"
+      ],
+      "cover_letter_opener": "Dear Huge Hiring Team,\n\nI'm writing to express my interest in the Public Relations Manager role at Huge. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of growing audiences with disciplined social content. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "huge-public-relations-manager",
       "source": "job-boards.greenhouse.io",
       "status": "open",
       "benefits_highlights": [
@@ -1711,69 +1789,31 @@
       "is_remote": false
     },
     {
-      "title": "Sr. Social Media Manager, Community and Listening",
-      "company": "UnitedHealth Group",
-      "location": "United States",
-      "location_type": "remote",
+      "title": "Newsletter Writer, The 10-Point",
+      "company": "Dow Jones (The Wall Street Journal)",
+      "location": "New York, NY",
+      "location_type": "hybrid",
       "posted_date": "2026-06-09",
-      "salary": "$91,700 – $163,700/year",
-      "url": "https://careers.unitedhealthgroup.com/job/washington-d-c/sr-social-media-manager-community-and-listening-remote/34088/95333806128",
-      "description": "Leads enterprise social media community management and social listening for UnitedHealth Group, building UHC and Optum engagement strategies, triage processes, and real-time response capabilities. Manages analyst-level staff and works cross-functionally with VP Social Media, Social Care, and Digital teams.",
+      "salary": "$95,000 – $115,000",
+      "url": "https://www.linkedin.com/jobs/view/newsletter-writer-the-10-point-at-dow-jones-4425938927",
+      "description": "The Wall Street Journal seeks an energetic Newsletter Writer to write the Saturday and Sunday editions of The 10-Point flagship newsletter, set the weekend news agenda, and support newsletter initiatives across the WSJ portfolio. The role requires strong journalistic instincts, conversational writing style, sound news judgment, and audience-data fluency; hybrid 3 days/week in the NYC office.",
       "key_skills": [
-        "Social media management",
-        "Community management",
-        "Social listening",
-        "Content strategy",
-        "Healthcare compliance",
-        "Analytics",
-        "Crisis communications",
-        "Team leadership"
+        "newsletter writing",
+        "journalism",
+        "audience analytics",
+        "news curation",
+        "editorial judgment",
+        "content strategy",
+        "deadline management"
       ],
-      "match_score": 73,
+      "match_score": 71,
       "match_reasons": [
-        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
-        "She grew RIED LinkedIn 226,500% — a clear social media strength",
-        "Health communications crossover with UB RIED research work"
+        "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation",
+        "Maps to her reporting background at Daily Caller News Foundation",
+        "Hybrid setup — fits her Buffalo/WNY base"
       ],
-      "cover_letter_opener": "Dear UnitedHealth Group Hiring Team,\n\nI'm writing to express my interest in the Sr. Social Media Manager, Community and Listening role at UnitedHealth Group. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "unitedhealth-group-sr-social-media-manager-community-and-listening",
-      "source": "careers.unitedhealthgroup.com",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Senior Copywriter",
-      "company": "Shift Paradigm",
-      "location": "United States",
-      "location_type": "remote",
-      "posted_date": "2026-06-07",
-      "salary": "$78,000 – $90,000/year",
-      "url": "https://www.linkedin.com/jobs/view/senior-copywriter-at-shift-paradigm-4421856467",
-      "description": "Writes innovative email marketing and personalized content for a MarTech consultancy whose clients include Fortune 500 brands using Adobe, Salesforce, and Braze. Works closely with designers, strategists, and developers to create highly dynamic inbox experiences.",
-      "key_skills": [
-        "Copywriting",
-        "Email marketing",
-        "Personalization",
-        "Content strategy",
-        "Collaboration",
-        "MarTech",
-        "Brand voice",
-        "B2B communications"
-      ],
-      "match_score": 73,
-      "match_reasons": [
-        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
-        "Copy-focused — pairs with her Substack and The Riff writing portfolio"
-      ],
-      "cover_letter_opener": "Dear Shift Paradigm Hiring Team,\n\nI'm writing to express my interest in the Senior Copywriter role at Shift Paradigm. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of crafting copy that earns attention and trust. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "shift-paradigm-senior-copywriter",
+      "cover_letter_opener": "Dear Dow Jones (The Wall Street Journal) Hiring Team,\n\nI'm writing to express my interest in the Newsletter Writer, The 10-Point role at Dow Jones (The Wall Street Journal). In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of editing for clarity, voice, and pace. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "dow-jones-the-wall-street-journal-newsletter-writer-the-10-point",
       "source": "www.linkedin.com",
       "status": "open",
       "benefits_highlights": [
@@ -1786,31 +1826,66 @@
       "is_remote": false
     },
     {
-      "title": "Newscast Producer",
-      "company": "TEGNA Inc. (WGRZ-TV Buffalo)",
-      "location": "Buffalo, NY",
-      "location_type": "in-person",
-      "posted_date": "2026-06-07",
-      "salary": "$25.00 – $25.96/hour",
-      "url": "https://job-boards.greenhouse.io/tegnainc/jobs/5147850007",
-      "description": "Full-time on-site newscast producer at WGRZ-TV NBC affiliate in Buffalo, responsible for editorial planning, writing, and producing newscasts across broadcast and digital platforms. Comprehensive TEGNA benefits package including medical, dental, vision, life insurance, disability, 401(k), and adoption assistance.",
+      "title": "Programming & Engagement Editor, Entertainment Weekly",
+      "company": "People Inc. (Entertainment Weekly)",
+      "location": "New York, NY",
+      "location_type": "hybrid",
+      "posted_date": "2026-06-08",
+      "salary": "$67,000",
+      "url": "https://www.linkedin.com/jobs/view/programming-engagement-editor-entertainment-weekly-at-people-inc-4425905210",
+      "description": "Entertainment Weekly is seeking a Programming & Engagement Editor to create, write, and deploy newsletters and browser/Apple News notifications, using real-time and historical analytics to inform programming plans and grow the brand's subscriber base. The role requires a strong news sense, deep pop culture knowledge, and excellent writing/editing skills; hybrid 3 days/week in NYC.",
       "key_skills": [
-        "newscast production",
-        "broadcast writing",
-        "editorial planning",
-        "breaking news",
-        "video editing",
-        "ENPS",
-        "digital publishing",
-        "deadline management"
+        "newsletter production",
+        "audience engagement",
+        "content programming",
+        "analytics",
+        "pop culture editorial",
+        "writing",
+        "CMS publishing"
+      ],
+      "match_score": 71,
+      "match_reasons": [
+        "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation",
+        "Hybrid setup — fits her Buffalo/WNY base"
+      ],
+      "cover_letter_opener": "Dear People Inc. (Entertainment Weekly) Hiring Team,\n\nI'm writing to express my interest in the Programming & Engagement Editor, Entertainment Weekly role at People Inc. (Entertainment Weekly). In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of editing for clarity, voice, and pace. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "people-inc-entertainment-weekly-programming-engagement-editor-entertainment-week",
+      "source": "www.linkedin.com",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Principal Associate, Content Strategist (Tech Blogs)",
+      "company": "Capital One",
+      "location": "New York, NY",
+      "location_type": "hybrid",
+      "posted_date": "2026-06-08",
+      "salary": "$131,800 – $150,500",
+      "url": "https://www.linkedin.com/jobs/view/principal-associate-content-strategist-tech-blogs-at-capital-one-4425103659",
+      "description": "Capital One seeks a content strategist to lead strategy and program management for the company's external Tech Blog, producing technically compelling content for a global audience of data scientists, software engineers, and AI/ML researchers, while managing an editorial calendar, SEO/GEO optimizations, CMS publishing, and syndication channels. The role requires at least 4 years of content strategy experience for a technical audience and 2+ years of technical writing and editing.",
+      "key_skills": [
+        "content strategy",
+        "technical writing",
+        "SEO/GEO",
+        "CMS publishing",
+        "editorial calendar management",
+        "tech blog",
+        "stakeholder management"
       ],
       "match_score": 71,
       "match_reasons": [
         "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation"
       ],
-      "cover_letter_opener": "Dear TEGNA Inc. (WGRZ-TV Buffalo) Hiring Team,\n\nI'm writing to express my interest in the Newscast Producer role at TEGNA Inc. (WGRZ-TV Buffalo). In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of editing for clarity, voice, and pace. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "tegna-inc-wgrz-tv-buffalo-newscast-producer",
-      "source": "job-boards.greenhouse.io",
+      "cover_letter_opener": "Dear Capital One Hiring Team,\n\nI'm writing to express my interest in the Principal Associate, Content Strategist (Tech Blogs) role at Capital One. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of editing for clarity, voice, and pace. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "capital-one-principal-associate-content-strategist-tech-blogs",
+      "source": "www.linkedin.com",
       "status": "open",
       "benefits_highlights": [
         "Healthcare benefits (full-time)"
@@ -1822,33 +1897,72 @@
       "is_remote": false
     },
     {
-      "title": "P.M. Editor",
-      "company": "The Daily Beast",
-      "location": "New York, NY",
-      "location_type": "hybrid",
-      "posted_date": "2026-06-08",
-      "salary": "$105,000–$120,000/year",
-      "url": "https://www.mediabistro.com/jobs/3539998062-pm-editor-the-daily-beast",
-      "description": "The Daily Beast (NYC-based digital news site) is hiring a P.M. Editor to oversee afternoon news coverage, assign and edit stories, manage reporters, curate the homepage, and maintain editorial voice starting at 2 p.m. Requires 4+ years in journalism with 2+ years in an editing role.",
+      "title": "Project Manager, Health Communications",
+      "company": "CISCRP (Center for Information and Study on Clinical Research Participation)",
+      "location": "United States",
+      "location_type": "remote",
+      "posted_date": "2026-06-09",
+      "salary": "$60,000 – $68,000/year",
+      "url": "https://www.simplyhired.com/job/inev_6Q51iYsGZ0F6_9SfP_Gh4cl3Pa5TV1GLqU6L5KY0tj-w4iSxA",
+      "description": "Manage the planning and execution of health communications projects, including lay language summaries that translate clinical research for public audiences, coordinating across vendors and account managers. Mission-driven nonprofit role focused on health literacy and patient education.",
       "key_skills": [
-        "news editing",
-        "editorial judgment",
-        "journalism",
-        "headline writing",
-        "homepage curation",
-        "digital media",
-        "breaking news",
-        "social media"
+        "health communications",
+        "project management",
+        "content production",
+        "writing",
+        "vendor management",
+        "clinical research",
+        "public health",
+        "editorial coordination"
+      ],
+      "match_score": 71,
+      "match_reasons": [
+        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
+        "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation",
+        "Mission-driven fit — UB RIED research-comms experience translates to nonprofit",
+        "Health communications crossover with UB RIED research work"
+      ],
+      "cover_letter_opener": "Dear CISCRP (Center for Information and Study on Clinical Research Participation) Hiring Team,\n\nI'm writing to express my interest in the Project Manager, Health Communications role at CISCRP (Center for Information and Study on Clinical Research Participation). In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "ciscrp-center-for-information-and-study-on-clinical-research-participation-proje",
+      "source": "www.simplyhired.com",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Senior Content Marketer, SEO",
+      "company": "Animalz",
+      "location": "United States",
+      "location_type": "remote",
+      "posted_date": "2026-06-07",
+      "salary": "$70,000 – $85,000/year",
+      "url": "https://www.ziprecruiter.com/c/Animalz/Job/Senior-Content-Marketer,-SEO/-in-Remote,US?jid=611ad4a4846beae4",
+      "description": "Write and optimize SEO content — flagship blogs, guides, and landing pages — for a portfolio of B2B SaaS clients at a remote-first content marketing agency. Also edits AI-generated content, manages freelancers, and leads monthly performance reporting.",
+      "key_skills": [
+        "SEO content writing",
+        "content marketing",
+        "B2B writing",
+        "keyword research",
+        "content audits",
+        "editorial management",
+        "AI content workflows",
+        "analytics"
       ],
       "match_score": 71,
       "match_reasons": [
         "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation",
-        "Maps to her reporting background at Daily Caller News Foundation",
-        "She grew RIED LinkedIn 226,500% — a clear social media strength"
+        "Content marketing aligns with her current RIED work (Research Matters newsletter, 7-9% CTOR)",
+        "Fully remote — matches her openness to remote work"
       ],
-      "cover_letter_opener": "Dear The Daily Beast Hiring Team,\n\nI'm writing to express my interest in the P.M. Editor role at The Daily Beast. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of editing for clarity, voice, and pace. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "the-daily-beast-p-m-editor",
-      "source": "www.mediabistro.com",
+      "cover_letter_opener": "Dear Animalz Hiring Team,\n\nI'm writing to express my interest in the Senior Content Marketer, SEO role at Animalz. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of editing for clarity, voice, and pace. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "animalz-senior-content-marketer-seo",
+      "source": "www.ziprecruiter.com",
       "status": "open",
       "benefits_highlights": [
         "Healthcare benefits (full-time)"
@@ -1860,181 +1974,68 @@
       "is_remote": false
     },
     {
-      "title": "Audience Engagement Assistant, Marketing, Random House Children's Books",
-      "company": "Penguin Random House LLC",
+      "title": "Associate, Crisis Communications (Corporate Issues)",
+      "company": "Weber Shandwick",
       "location": "New York, NY",
       "location_type": "hybrid",
-      "posted_date": "2026-06-07",
-      "salary": "Not disclosed",
-      "url": "https://www.indeed.com/jobs?q=Penguin+Random+House+Audience+Engagement+Assistant+Marketing&l=New+York%2C+NY",
-      "description": "Penguin Random House seeks an assistant for the Audience Engagement team in Random House Children's Books marketing, supporting paid media, social media, newsletters, and influencer promotions for brands like Dr. Seuss, Magic Tree House, and Holly Jackson. Full benefits: health insurance, 401(k), tuition reimbursement, loan repayment, prescription drug coverage.",
+      "posted_date": "2026-06-09",
+      "salary": "$52,000 – $60,000",
+      "url": "https://webershandwick.com/work-at-weber/careers/?gh_jid=8529884002",
+      "description": "Weber Shandwick's Global Crisis and Issues Practice seeks an Associate to support complex, high-profile corporate crisis communications situations including cybersecurity incidents, product recalls, executive controversies, and litigation, developing press releases, crisis plans, reactive statements, talking points, and FAQs. The role requires strong writing skills, social/digital analytical fluency, and the ability to manage multiple priorities in a fast-paced deadline-driven environment.",
       "key_skills": [
-        "digital marketing",
-        "paid media",
-        "social media",
-        "project coordination",
-        "email/newsletter marketing",
-        "audience development",
-        "book publishing",
-        "content marketing"
+        "crisis communications",
+        "PR writing",
+        "media relations",
+        "issues management",
+        "social media monitoring",
+        "stakeholder communications",
+        "research and analysis"
       ],
       "match_score": 70,
       "match_reasons": [
-        "Content marketing aligns with her current RIED work (Research Matters newsletter, 7-9% CTOR)",
+        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
+        "She grew RIED LinkedIn 226,500% — a clear social media strength"
+      ],
+      "cover_letter_opener": "Dear Weber Shandwick Hiring Team,\n\nI'm writing to express my interest in the Associate, Crisis Communications (Corporate Issues) role at Weber Shandwick. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of growing audiences with disciplined social content. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "weber-shandwick-associate-crisis-communications-corporate-issues",
+      "source": "webershandwick.com",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Buffalo Show Host",
+      "company": "Audacy / WGR Sports Radio 550",
+      "location": "Buffalo, NY",
+      "location_type": "in-person",
+      "posted_date": "2026-06-10",
+      "salary": "$35,000 - $55,000 per year",
+      "url": "https://careers-audacy.icims.com/jobs/8181/audacy-buffalo-show-host/job",
+      "description": "Full-time on-air show host for WGR Sports Radio 550, Buffalo's premier sports talk station, responsible for creating original sports content, performing live broadcasts, and managing a social media personality presence for the Bills/Sabres audience. Requires prior broadcast hosting experience and comprehensive health benefits are included.",
+      "key_skills": [
+        "broadcast hosting",
+        "on-air personality",
+        "sports journalism",
+        "content creation",
+        "social media",
+        "live broadcasting",
+        "audio production"
+      ],
+      "match_score": 65,
+      "match_reasons": [
+        "Maps to her reporting background at Daily Caller News Foundation",
         "She grew RIED LinkedIn 226,500% — a clear social media strength",
         "Health communications crossover with UB RIED research work"
       ],
-      "cover_letter_opener": "Dear Penguin Random House LLC Hiring Team,\n\nI'm writing to express my interest in the Audience Engagement Assistant, Marketing, Random House Children's Books role at Penguin Random House LLC. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "penguin-random-house-llc-audience-engagement-assistant-marketing-random-house-ch",
-      "source": "www.indeed.com",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Senior Social Media Manager",
-      "company": "Her Campus Media",
-      "location": "United States",
-      "location_type": "remote",
-      "posted_date": "2026-06-09",
-      "salary": "$75,000 – $85,000/year",
-      "url": "https://dynamitejobs.com/company/hercampusmedia/remote-job/senior-social-media-manager",
-      "description": "Leads social content strategy, creation, and day-to-day operations for Her Campus, Spoon University, and College Fashionista platforms, with a focus on Instagram, TikTok, YouTube, and Pinterest. Manages two full-time editors, owns the Study Break newsletter, and drives growth through data-driven testing and Gen Z cultural intelligence.",
-      "key_skills": [
-        "Social media strategy",
-        "Content creation",
-        "Editorial judgment",
-        "TikTok/Instagram",
-        "Video editing",
-        "Newsletter management",
-        "AP Style",
-        "Team management"
-      ],
-      "match_score": 70,
-      "match_reasons": [
-        "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation",
-        "She grew RIED LinkedIn 226,500% — a clear social media strength"
-      ],
-      "cover_letter_opener": "Dear Her Campus Media Hiring Team,\n\nI'm writing to express my interest in the Senior Social Media Manager role at Her Campus Media. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of editing for clarity, voice, and pace. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "her-campus-media-senior-social-media-manager",
-      "source": "dynamitejobs.com",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Marketing & Brand Manager US",
-      "company": "Sereact",
-      "location": "United States",
-      "location_type": "remote",
-      "posted_date": "2026-06-09",
-      "salary": "$110,000 – $150,000/year",
-      "url": "https://dynamitejobs.com/company/sereact/remote-job/marketing-brand-manager-us",
-      "description": "Owns North American marketing strategy and brand presence for a fast-growing embodied AI/robotics company, leading demand generation, content creation, trade show execution, and brand messaging. Works cross-functionally with sales and product teams to translate technical capabilities into compelling marketing narratives.",
-      "key_skills": [
-        "Brand management",
-        "Content creation",
-        "Demand generation",
-        "Event marketing",
-        "Marketing communications",
-        "B2B marketing",
-        "Campaign analytics",
-        "HubSpot/Marketo"
-      ],
-      "match_score": 68,
-      "match_reasons": [
-        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role"
-      ],
-      "cover_letter_opener": "Dear Sereact Hiring Team,\n\nI'm writing to express my interest in the Marketing & Brand Manager US role at Sereact. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating research and ideas into resonant communications. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "sereact-marketing-brand-manager-us",
-      "source": "dynamitejobs.com",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Events & Referral Marketing Manager",
-      "company": "Cantor Wolff Nicastro & Hall, LLC",
-      "location": "Buffalo, NY 14223",
-      "location_type": "hybrid",
-      "posted_date": "2026-06-07",
-      "salary": "$55,000 – $65,000/year",
-      "url": "https://www.indeed.com/q-senior-marketing-manager-l-buffalo,-ny-jobs.html",
-      "description": "Hybrid full-time role at a Buffalo law firm managing community events, referral marketing campaigns, and local market outreach to drive business development. Includes health, dental, vision insurance, 401(k), PTO, and flexible schedule.",
-      "key_skills": [
-        "event management",
-        "referral marketing",
-        "community outreach",
-        "campaign coordination",
-        "local market marketing",
-        "relationship building",
-        "content creation"
-      ],
-      "match_score": 61,
-      "match_reasons": [
-        "Hybrid setup — fits her Buffalo/WNY base",
-        "Health communications crossover with UB RIED research work"
-      ],
-      "cover_letter_opener": "Dear Cantor Wolff Nicastro & Hall, LLC Hiring Team,\n\nI'm writing to express my interest in the Events & Referral Marketing Manager role at Cantor Wolff Nicastro & Hall, LLC. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "cantor-wolff-nicastro-hall-llc-events-referral-marketing-manager",
-      "source": "www.indeed.com",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Head of Brand & Storytelling",
-      "company": "Kaizen Labs",
-      "location": "New York, NY",
-      "location_type": "hybrid",
-      "posted_date": "2026-06-08",
-      "salary": "$180,000–$220,000/year",
-      "url": "https://www.builtinnyc.com/job/brand-storytelling-lead/9639606",
-      "description": "Kaizen Labs (govtech startup, $35M raised) seeks a brand builder to define and execute external brand strategy across editorial content, short films, social, and executive communications. Requires 6–10 years building brand and content, with AI-native workflow; reports directly to co-founders from NYC HQ (in-office Tue–Thu).",
-      "key_skills": [
-        "brand strategy",
-        "content marketing",
-        "executive communications",
-        "editorial",
-        "PR",
-        "storytelling",
-        "social media",
-        "AI tools"
-      ],
-      "match_score": 57,
-      "match_reasons": [
-        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
-        "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation",
-        "Content marketing aligns with her current RIED work (Research Matters newsletter, 7-9% CTOR)",
-        "She grew RIED LinkedIn 226,500% — a clear social media strength"
-      ],
-      "cover_letter_opener": "Dear Kaizen Labs Hiring Team,\n\nI'm writing to express my interest in the Head of Brand & Storytelling role at Kaizen Labs. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of editing for clarity, voice, and pace. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "kaizen-labs-head-of-brand-storytelling",
-      "source": "www.builtinnyc.com",
+      "cover_letter_opener": "Dear Audacy / WGR Sports Radio 550 Hiring Team,\n\nI'm writing to express my interest in the Buffalo Show Host role at Audacy / WGR Sports Radio 550. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "audacy-wgr-sports-radio-550-buffalo-show-host",
+      "source": "careers-audacy.icims.com",
       "status": "open",
       "benefits_highlights": [
         "Healthcare benefits (full-time)"
