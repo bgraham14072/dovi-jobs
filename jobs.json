@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-07-11",
   "jobs": [
     {
       "title": "Community Engagement Specialist",
@@ -1135,6 +1135,41 @@
       "is_remote": false
     },
     {
+      "title": "Social Media Coordinator",
+      "company": "The Nature Conservancy",
+      "location": "Remote - US",
+      "location_type": "remote",
+      "posted_date": "2026-07-01",
+      "salary": "$27.88 - $40.42 per hour (US-based hires)",
+      "url": "https://careers.tnc.org/fr/fr/job/THUTNCUSJR103226EXTERNALFRFR/Social-Media-Coordinator",
+      "description": "The Nature Conservancy is hiring a fully remote Social Media Coordinator to support day-to-day execution of its flagship social media presence across Instagram, Facebook, LinkedIn, X, TikTok, Threads, Bluesky, YouTube, and emerging platforms. Responsibilities include daily publishing, content calendar management, light-lift content creation, community engagement, and monitoring/responding to comments and messages. Full-time role with benefits including medical, dental, vision, life and disability insurance, paid parental leave, 401(k) with employer match, and paid time off. Application deadline was July 8, 2026.",
+      "key_skills": [
+        "Bachelor's degree + 2 years related experience",
+        "Project coordination",
+        "Proofreading and editing",
+        "Social media management/analytics tools (Sprout Social, Canva, Asana)",
+        "Content scheduling and publishing",
+        "Community management"
+      ],
+      "match_score": 76,
+      "match_reasons": [
+        "She grew RIED LinkedIn 226,500% — a clear social media strength",
+        "Fully remote — matches her openness to remote work"
+      ],
+      "cover_letter_opener": "Dear The Nature Conservancy Hiring Team,\n\nI'm writing to express my interest in the Social Media Coordinator role at The Nature Conservancy. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of growing audiences with disciplined social content. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "the-nature-conservancy-social-media-coordinator",
+      "source": "careers.tnc.org",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
       "title": "Junior Copywriter",
       "company": "Athena SWC",
       "location": "Amherst, NY (Buffalo metro)",
@@ -1306,6 +1341,81 @@
       "cover_letter_opener": "Dear DataSite Hiring Team,\n\nI'm writing to express my interest in the Content Marketing Manager role at DataSite. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of editing for clarity, voice, and pace. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
       "id": "datasite-content-marketing-manager",
       "source": "www.builtinnyc.com",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Communications & Publications Associate",
+      "company": "Buffalo Philharmonic Orchestra",
+      "location": "Buffalo, NY 14222",
+      "location_type": "in-person",
+      "posted_date": "2026-07-06",
+      "salary": "$18.00 - $20.00 per hour",
+      "url": "https://www.indeed.com/cmp/Buffalo-Philharmonic-Orchestra",
+      "description": "Supports the marketing team with a primary focus on owning the development, coordination, and execution of program books and related content-driven publications. Serves as a key editorial and production resource ensuring accuracy, consistency, and timely delivery across public-facing materials. Also supports communications efforts through research, fact gathering, proofreading, media relations/PR support (drafting and distributing press releases and media alerts, maintaining media lists), and coordination of content across platforms, plus select digital implementation tasks. Full-time, in-person at Kleinhans Music Hall area. Benefits include 403(b), health/dental/vision/life insurance, paid time off, and employee assistance program.",
+      "key_skills": [
+        "writing",
+        "editing",
+        "proofreading",
+        "media relations",
+        "press release drafting",
+        "AP style",
+        "publication production",
+        "content coordination",
+        "Microsoft 365"
+      ],
+      "match_score": 75,
+      "match_reasons": [
+        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
+        "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation",
+        "Health communications crossover with UB RIED research work"
+      ],
+      "cover_letter_opener": "Dear Buffalo Philharmonic Orchestra Hiring Team,\n\nI'm writing to express my interest in the Communications & Publications Associate role at Buffalo Philharmonic Orchestra. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "buffalo-philharmonic-orchestra-communications-publications-associate",
+      "source": "www.indeed.com",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Graphic Design & Digital Communications Manager",
+      "company": "WE ACT for Environmental Justice",
+      "location": "New York, NY (1854 Amsterdam Avenue, Harlem)",
+      "location_type": "Hybrid",
+      "posted_date": "2026-07-09",
+      "salary": "$75,000 - $85,000/year",
+      "url": "https://www.idealist.org/en/nonprofit-jobs-new-york",
+      "description": "Designs communications materials for environmental justice advocacy, including press releases, social media, and multimedia content. Manages WordPress CMS and supports SEO/SEM efforts. Full-time role with medical/dental/vision, FSA, life insurance, transit, and retirement benefits.",
+      "key_skills": [
+        "Graphic design",
+        "WordPress",
+        "HTML/CSS",
+        "SEO/SEM",
+        "Adobe Creative Suite",
+        "Email marketing (MailChimp/Constant Contact)",
+        "Video editing"
+      ],
+      "match_score": 75,
+      "match_reasons": [
+        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
+        "She grew RIED LinkedIn 226,500% — a clear social media strength"
+      ],
+      "cover_letter_opener": "Dear WE ACT for Environmental Justice Hiring Team,\n\nI'm writing to express my interest in the Graphic Design & Digital Communications Manager role at WE ACT for Environmental Justice. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of growing audiences with disciplined social content. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "we-act-for-environmental-justice-graphic-design-digital-communications-manager",
+      "source": "www.idealist.org",
       "status": "open",
       "benefits_highlights": [
         "Healthcare benefits (full-time)"
@@ -1508,31 +1618,180 @@
       "is_remote": false
     },
     {
-      "title": "Content Production Writer & Editor",
-      "company": "Bullseye Strategy",
-      "location": "Remote - US",
-      "location_type": "remote",
-      "posted_date": "2026-07-01",
-      "salary": "$55,000–$60,000/year",
-      "url": "https://remotive.com/remote/jobs/writing/content-production-writer-editor-5108206",
-      "description": "Fully remote digital marketing agency seeking a Content Production Editor to own the editorial layer across 14+ client accounts, prompting, reviewing, rewriting, and elevating content from AI tools, junior contributors, and internal briefs at high volume (~15 pieces/week) across social posts, blogs, ad copy, email, and landing pages. Full-time; location restricted to EST/CST time zones. Benefits include medical, dental, vision, 401k with match after 3 months, unlimited PTO, paid holidays, and equipment provided.",
+      "title": "Digital Content Manager",
+      "company": "Lincoln Center Theater",
+      "location": "New York, NY",
+      "location_type": "Hybrid",
+      "posted_date": "2026-07-07",
+      "salary": "$70,000 - $80,000/yr",
+      "url": "https://www.idealist.org/en/nonprofit-job/10883f6a4b8849a49c6b426755bdabf3-digital-content-manager-at-lincoln-center-theater-lincoln-center-theater-new-york-new-york",
+      "description": "Lincoln Center Theater is hiring a Digital Content Manager to oversee the organization's digital presence across owned channels, including website, blog, press updates, and email marketing. The role involves writing, editing, and optimizing web copy, supporting the Social Media Manager, and managing CRM audience segmentation for targeted campaigns. Reports to the Director of Marketing. Full-time, exempt, salaried position.",
       "key_skills": [
-        "editing",
-        "copywriting",
-        "SEO",
-        "WordPress",
-        "AI tools (Claude, ChatGPT, Gemini)",
-        "brand voice management",
-        "multi-account content production"
+        "Content management systems (CMS)",
+        "Copywriting and editing",
+        "Email marketing/CRM",
+        "SEO and accessibility standards",
+        "Adobe Creative Suite (basic video/image editing)",
+        "Digital storytelling",
+        "Project management"
+      ],
+      "match_score": 76,
+      "match_reasons": [
+        "Copy-focused — pairs with her Substack and The Riff writing portfolio",
+        "She grew RIED LinkedIn 226,500% — a clear social media strength"
+      ],
+      "cover_letter_opener": "Dear Lincoln Center Theater Hiring Team,\n\nI'm writing to express my interest in the Digital Content Manager role at Lincoln Center Theater. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of crafting copy that earns attention and trust. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "lincoln-center-theater-digital-content-manager",
+      "source": "www.idealist.org",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Public Relations Manager, LifeLock (Consumer Communications Lead)",
+      "company": "Gen Digital Inc.",
+      "location": "New York, NY",
+      "location_type": "Hybrid (3 days/week in office)",
+      "posted_date": "2026-07-06",
+      "salary": "$130,000 - $150,000/yr",
+      "url": "https://jobs.ashbyhq.com/gen-digital/c1c74f98-c8b6-4f02-b05b-db815e5b365d",
+      "description": "Gen Digital is hiring a Consumer Communications Lead for LifeLock, its consumer identity-protection brand. This individual-contributor PR role owns the LifeLock communications strategy end-to-end, leads a cross-functional Rapid Response/newsjacking program, and supports influencer partnership campaigns. Involves media relations, executive thought leadership, and agency management. Full-time with comprehensive medical, dental, vision, disability, and life insurance benefits.",
+      "key_skills": [
+        "Strategic PR planning",
+        "Media relations",
+        "Storytelling/writing",
+        "Crisis and rapid-response communications",
+        "Cross-functional collaboration",
+        "AI-powered communications tools"
+      ],
+      "match_score": 75,
+      "match_reasons": [
+        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
+        "Holds the Ragan Communications PR Certificate (2025)"
+      ],
+      "cover_letter_opener": "Dear Gen Digital Inc. Hiring Team,\n\nI'm writing to express my interest in the Public Relations Manager, LifeLock (Consumer Communications Lead) role at Gen Digital Inc.. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating research and ideas into resonant communications. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "gen-digital-inc-public-relations-manager-lifelock-consumer-communications-lead",
+      "source": "jobs.ashbyhq.com",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Manager of Communications",
+      "company": "Harris Beach Murtha",
+      "location": "Buffalo, NY (also Rochester or Syracuse, NY)",
+      "location_type": "hybrid",
+      "posted_date": "2026-07-09",
+      "salary": "Not disclosed (varies by experience, geographic location, and weekly hours schedule)",
+      "url": "https://www.linkedin.com/jobs/view/manager-of-communications-at-harris-beach-murtha-4438276464",
+      "description": "Harris Beach Murtha, a law firm with over 165 years of history, is seeking a Manager of Communications to join its Business Development team. This individual will manage firm-wide strategic communications and media relations to advance regional visibility and generate growth opportunities, including internal and external communications. Responsibilities include creating written strategic communication plans (including social media) to support announcements of new attorneys, product/service launches, and major initiatives; performing public relations support such as drafting and distributing press releases; establishing media relations with regional and national business press and legal industry publications; providing media training for attorneys; managing content curation platforms like Best Lawyers and Super Lawyers; and supporting crisis communications strategy. Full-time, 40 hours/week, hybrid schedule based in Buffalo, Rochester, or Syracuse, NY.",
+      "key_skills": [
+        "Strategic communications planning",
+        "Media relations",
+        "Public relations",
+        "Press release writing and distribution",
+        "Social media strategy",
+        "Crisis communications",
+        "Analytics and metrics reporting",
+        "Stakeholder management",
+        "5+ years managerial experience in law firm or professional services communications",
+        "Bachelor's degree in marketing or related field"
+      ],
+      "match_score": 74,
+      "match_reasons": [
+        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
+        "She grew RIED LinkedIn 226,500% — a clear social media strength",
+        "Holds the Ragan Communications PR Certificate (2025)",
+        "Hybrid setup — fits her Buffalo/WNY base"
+      ],
+      "cover_letter_opener": "Dear Harris Beach Murtha Hiring Team,\n\nI'm writing to express my interest in the Manager of Communications role at Harris Beach Murtha. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of growing audiences with disciplined social content. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "harris-beach-murtha-manager-of-communications",
+      "source": "www.linkedin.com",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Founding Content Marketing Manager",
+      "company": "Basis",
+      "location": "New York, NY (Flatiron office)",
+      "location_type": "In-person (5 days/week in Manhattan office)",
+      "posted_date": "2026-07-06",
+      "salary": "Not stated",
+      "url": "https://jobs.accel.com/companies/basis-3-0a2d4969-0a46-44a8-aff3-5f9dd147df30/jobs/85367713-founding-content-marketing-manager",
+      "description": "Basis is hiring a Founding Content Marketing Manager to own and build its organic content engine end-to-end: writing, editing, publishing, optimizing, and distributing content across search, AI answer engines, blogs, SEO landing pages, and social. Will develop editorial standards, workflows, and AI-enabled processes to scale production. Includes premium medical/dental/vision coverage, life insurance, and mental health coaching/therapy sessions via Spring Health.",
+      "key_skills": [
+        "Long-form writing and editing",
+        "SEO/GEO",
+        "Editorial strategy",
+        "Content repurposing",
+        "Google Search Console/GA4/Ahrefs/Semrush",
+        "Webflow/HubSpot",
+        "B2B marketing"
       ],
       "match_score": 74,
       "match_reasons": [
         "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation",
-        "Copy-focused — pairs with her Substack and The Riff writing portfolio",
-        "Fully remote — matches her openness to remote work"
+        "Content marketing aligns with her current RIED work (Research Matters newsletter, 7-9% CTOR)",
+        "Health communications crossover with UB RIED research work"
       ],
-      "cover_letter_opener": "Dear Bullseye Strategy Hiring Team,\n\nI'm writing to express my interest in the Content Production Writer & Editor role at Bullseye Strategy. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of editing for clarity, voice, and pace. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "bullseye-strategy-content-production-writer-editor",
+      "cover_letter_opener": "Dear Basis Hiring Team,\n\nI'm writing to express my interest in the Founding Content Marketing Manager role at Basis. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "basis-founding-content-marketing-manager",
+      "source": "jobs.accel.com",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Marketing Manager, Brand & Advocacy",
+      "company": "Planning Center",
+      "location": "Remote - US",
+      "location_type": "remote",
+      "posted_date": "2026-07-09",
+      "salary": "$100,000–$130,000/year",
+      "url": "https://remotive.com/remote/jobs/marketing/marketing-manager-brand-advocacy-5190406",
+      "description": "Owns how Planning Center (church management software) shows up wherever church leaders gather online: social media, podcasts, review sites, and partnerships. Runs social media strategy end-to-end, builds customer advocacy and word-of-mouth programs (testimonials, case studies, referrals), grows organic audience and community presence, and pursues podcast/newsletter/co-marketing placements. Fully remote within the USA; candidates must reside in and be authorized to work in the U.S. (no H-1B sponsorship). Full-time with strong benefits: 95% medical premium coverage, 100% dental premium coverage, 401(k) contribution, generous PTO, paid Fridays off year-round, month-long sabbatical every five years, $200/month wellness stipend, and charitable giving match. Requires willingness to travel three times a year. Applications accepted through July 16, 2026.",
+      "key_skills": [
+        "3–6 years marketing experience",
+        "B2B software/technology background preferred",
+        "organic/social/brand/community/advocacy marketing track record",
+        "strong editorial instincts and short-form writing",
+        "B2B SaaS and product-led growth understanding",
+        "relationship building and program scaling"
+      ],
+      "match_score": 74,
+      "match_reasons": [
+        "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation",
+        "She grew RIED LinkedIn 226,500% — a clear social media strength",
+        "Fully remote — matches her openness to remote work",
+        "Wellness/health angle — adjacent to UB RIED research-translation work"
+      ],
+      "cover_letter_opener": "Dear Planning Center Hiring Team,\n\nI'm writing to express my interest in the Marketing Manager, Brand & Advocacy role at Planning Center. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "planning-center-marketing-manager-brand-advocacy",
       "source": "remotive.com",
       "status": "open",
       "benefits_highlights": [
@@ -1546,30 +1805,30 @@
     },
     {
       "title": "Social Media Manager",
-      "company": "Artsy",
-      "location": "New York, NY (401 Broadway)",
-      "location_type": "Hybrid (2-3 days/week in NYC office)",
-      "posted_date": "2026-07-08",
-      "salary": "$75,000 - $100,000 annually + equity",
-      "url": "https://www.builtinnyc.com/job/social-media-manager/8233908",
-      "description": "Artsy is hiring a Social Media Manager to create social-first, platform-native content (short-form, lo-fi iPhone video) capturing exhibitions, art fairs, studio visits and campaigns. Manages day-to-day social presence and scheduling, writes captions reflecting brand voice, collaborates on organic/paid campaigns, coordinates with artists and galleries, and tracks performance analytics. Requires 3-5 years of social media management experience. Full-time with comprehensive healthcare, 401k, and other benefits.",
+      "company": "Lincoln Center Theater",
+      "location": "New York, NY",
+      "location_type": "Hybrid",
+      "posted_date": "2026-07-07",
+      "salary": "$70,000 - $80,000/yr",
+      "url": "https://www.idealist.org/en/nonprofit-job/a85207e62acd4f559a2d25ddc825669e-social-media-manager-at-lincoln-center-theater-lincoln-center-theater-new-york-new-york",
+      "description": "Lincoln Center Theater seeks a Social Media Manager to lead the institution's social presence across Instagram, Facebook, TikTok, YouTube, and LinkedIn. Responsible for content strategy, community management, influencer relationships, and analytics-driven optimization. Reports to the Director of Marketing. Full-time, exempt, salaried position with comprehensive benefits.",
       "key_skills": [
         "Social media strategy",
-        "Short-form video creation/editing",
-        "Copywriting/captions",
-        "Content calendar management",
-        "Social analytics",
-        "Cross-functional collaboration"
+        "Content creation (photo/video)",
+        "Community management",
+        "Sprout Social/Hootsuite/Later",
+        "Adobe Creative Suite",
+        "Analytics and KPI tracking",
+        "Storytelling and copywriting"
       ],
       "match_score": 73,
       "match_reasons": [
         "Copy-focused — pairs with her Substack and The Riff writing portfolio",
-        "She grew RIED LinkedIn 226,500% — a clear social media strength",
-        "Health communications crossover with UB RIED research work"
+        "She grew RIED LinkedIn 226,500% — a clear social media strength"
       ],
-      "cover_letter_opener": "Dear Artsy Hiring Team,\n\nI'm writing to express my interest in the Social Media Manager role at Artsy. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "artsy-social-media-manager",
-      "source": "www.builtinnyc.com",
+      "cover_letter_opener": "Dear Lincoln Center Theater Hiring Team,\n\nI'm writing to express my interest in the Social Media Manager role at Lincoln Center Theater. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of crafting copy that earns attention and trust. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "lincoln-center-theater-social-media-manager",
+      "source": "www.idealist.org",
       "status": "open",
       "benefits_highlights": [
         "Healthcare benefits (full-time)"
@@ -1581,30 +1840,32 @@
       "is_remote": false
     },
     {
-      "title": "Social Media Coordinator",
-      "company": "The Nature Conservancy",
+      "title": "Program Communications Manager",
+      "company": "Operation Blessing",
       "location": "Remote - US",
       "location_type": "remote",
-      "posted_date": "2026-07-01",
-      "salary": "$27.88 - $40.42 per hour (US-based hires)",
-      "url": "https://careers.tnc.org/fr/fr/job/THUTNCUSJR103226EXTERNALFRFR/Social-Media-Coordinator",
-      "description": "The Nature Conservancy is hiring a fully remote Social Media Coordinator to support day-to-day execution of its flagship social media presence across Instagram, Facebook, LinkedIn, X, TikTok, Threads, Bluesky, YouTube, and emerging platforms. Responsibilities include daily publishing, content calendar management, light-lift content creation, community engagement, and monitoring/responding to comments and messages. Full-time role with benefits including medical, dental, vision, life and disability insurance, paid parental leave, 401(k) with employer match, and paid time off. Application deadline was July 8, 2026.",
+      "posted_date": "2026-07-10",
+      "salary": "$51,700–$55,000/year",
+      "url": "https://www.idealist.org/en/nonprofit-job/23a59611addc442ab490a88693bae38e-program-communications-manager-operation-blessing-virginia-beach",
+      "description": "Manages strategic communications that cultivate partnerships with corporations, foundations, gift-in-kind partners, and individual supporters for Operation Blessing's Global Disaster Response, U.S. Hunger Relief, and Procurement/Gift-in-Kind programs. Develops proposals, donor reports, and donor-facing content. Work can be performed from anywhere in the United States; organization headquartered in Virginia Beach, VA. Full-time position; benefits package explicitly includes healthcare for full-time positions. Faith-based nonprofit organized around Christian/Biblical principles.",
       "key_skills": [
-        "Bachelor's degree + 2 years related experience",
-        "Project coordination",
-        "Proofreading and editing",
-        "Social media management/analytics tools (Sprout Social, Canva, Asana)",
-        "Content scheduling and publishing",
-        "Community management"
+        "Bachelor's in Communications, Journalism, English, Marketing, or Nonprofit Management (or 2-4 years equivalent experience)",
+        "project management",
+        "MS Office",
+        "Adobe Creative Suite and CRM preferred",
+        "proposal and report writing",
+        "donor communications"
       ],
-      "match_score": 76,
+      "match_score": 73,
       "match_reasons": [
-        "She grew RIED LinkedIn 226,500% — a clear social media strength",
-        "Fully remote — matches her openness to remote work"
+        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
+        "Maps to her reporting background at Daily Caller News Foundation",
+        "Mission-driven fit — UB RIED research-comms experience translates to nonprofit",
+        "Health communications crossover with UB RIED research work"
       ],
-      "cover_letter_opener": "Dear The Nature Conservancy Hiring Team,\n\nI'm writing to express my interest in the Social Media Coordinator role at The Nature Conservancy. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of growing audiences with disciplined social content. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "the-nature-conservancy-social-media-coordinator",
-      "source": "careers.tnc.org",
+      "cover_letter_opener": "Dear Operation Blessing Hiring Team,\n\nI'm writing to express my interest in the Program Communications Manager role at Operation Blessing. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "operation-blessing-program-communications-manager",
+      "source": "www.idealist.org",
       "status": "open",
       "benefits_highlights": [
         "Healthcare benefits (full-time)"
@@ -1616,180 +1877,138 @@
       "is_remote": false
     },
     {
-      "title": "Communications & Publications Associate",
-      "company": "Buffalo Philharmonic Orchestra",
-      "location": "Buffalo, NY 14222",
-      "location_type": "in-person",
-      "posted_date": "2026-07-06",
-      "salary": "$18.00 - $20.00 per hour",
-      "url": "https://www.indeed.com/cmp/Buffalo-Philharmonic-Orchestra",
-      "description": "Supports the marketing team with a primary focus on owning the development, coordination, and execution of program books and related content-driven publications. Serves as a key editorial and production resource ensuring accuracy, consistency, and timely delivery across public-facing materials. Also supports communications efforts through research, fact gathering, proofreading, media relations/PR support (drafting and distributing press releases and media alerts, maintaining media lists), and coordination of content across platforms, plus select digital implementation tasks. Full-time, in-person at Kleinhans Music Hall area. Benefits include 403(b), health/dental/vision/life insurance, paid time off, and employee assistance program.",
+      "title": "PR & Communications Manager",
+      "company": "BJAK (A1)",
+      "location": "Remote - US",
+      "location_type": "remote",
+      "posted_date": "2026-07-09",
+      "salary": "Not disclosed on posting",
+      "url": "https://builtin.com/job/pr-communications-manager/9394068",
+      "description": "Crafts BJAK/A1's global public narrative and PR strategy across international markets. Owns media relations, thought leadership placement, and storytelling for a high-growth tech company. Hiring remotely in the United States (remote or hybrid). Full-time role listed on Built In, a platform whose listings are for full-time professional roles.",
       "key_skills": [
-        "writing",
-        "editing",
-        "proofreading",
-        "media relations",
-        "press release drafting",
-        "AP style",
-        "publication production",
-        "content coordination",
-        "Microsoft 365"
+        "Communications, PR, or media relations experience",
+        "tech, AI, consumer internet, or high-growth company experience preferred",
+        "strong English writing and editing",
+        "Chinese language a plus",
+        "self-directed storytelling"
       ],
-      "match_score": 75,
+      "match_score": 73,
+      "match_reasons": [
+        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
+        "Fully remote — matches her openness to remote work",
+        "Hybrid setup — fits her Buffalo/WNY base"
+      ],
+      "cover_letter_opener": "Dear BJAK (A1) Hiring Team,\n\nI'm writing to express my interest in the PR & Communications Manager role at BJAK (A1). In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating research and ideas into resonant communications. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "bjak-a1-pr-communications-manager",
+      "source": "builtin.com",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Content Manager",
+      "company": "Comun",
+      "location": "New York, NY",
+      "location_type": "On-site",
+      "posted_date": "2026-07-02",
+      "salary": "Not stated",
+      "url": "https://www.ziprecruiter.com/c/Comun/Job/Content-Manager/-in-New-York,NY?jid=a249ff8439882b30",
+      "description": "Común, a financial services company serving Hispanic immigrants, is hiring a Content Manager to be the face of the brand—creating content on camera, in writing, and across social, video, and paid marketing channels. Requires English/Spanish fluency. Reports to the Brand & Content Lead. Full-time with medical, dental, and vision insurance.",
+      "key_skills": [
+        "Bilingual content creation (English/Spanish)",
+        "On-camera presenting",
+        "Video editing (CapCut)",
+        "Social media management",
+        "Content calendar planning",
+        "Meta Insights/TikTok Analytics/Google Analytics"
+      ],
+      "match_score": 72,
+      "match_reasons": [
+        "She grew RIED LinkedIn 226,500% — a clear social media strength"
+      ],
+      "cover_letter_opener": "Dear Comun Hiring Team,\n\nI'm writing to express my interest in the Content Manager role at Comun. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of growing audiences with disciplined social content. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "comun-content-manager",
+      "source": "www.ziprecruiter.com",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Director, Content Marketing",
+      "company": "Talkiatry",
+      "location": "New York, NY",
+      "location_type": "On-site/Hybrid",
+      "posted_date": "2026-07-05",
+      "salary": "$175,000 - $215,000/yr",
+      "url": "https://www.newsletterjobs.io/jobs/512524479-director-content-marketing-new-york-ny",
+      "description": "Talkiatry, a mental health care company, is seeking its first dedicated Director of Content Marketing to build its content engine from scratch and establish the brand as an authoritative voice on mental health. Reports to the CMO; owns strategy across blog, newsletter, SEO, organic social, video, and emerging channels, and will build out a team. Full-time with medical/dental/vision effective day 1, 401K match, generous PTO, and paid parental leave.",
+      "key_skills": [
+        "Content strategy leadership",
+        "SEO",
+        "Long-form and short-form editorial",
+        "Team building/management",
+        "AirOps/HubSpot/Webflow/Iterable",
+        "Video and social content",
+        "Cross-functional stakeholder management"
+      ],
+      "match_score": 58,
+      "match_reasons": [
+        "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation",
+        "Content marketing aligns with her current RIED work (Research Matters newsletter, 7-9% CTOR)",
+        "Health communications crossover with UB RIED research work"
+      ],
+      "cover_letter_opener": "Dear Talkiatry Hiring Team,\n\nI'm writing to express my interest in the Director, Content Marketing role at Talkiatry. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "talkiatry-director-content-marketing",
+      "source": "www.newsletterjobs.io",
+      "status": "open",
+      "benefits_highlights": [
+        "Healthcare benefits (full-time)"
+      ],
+      "salary_min": 0,
+      "salary_max": 0,
+      "is_wny": false,
+      "is_nyc": false,
+      "is_remote": false
+    },
+    {
+      "title": "Editor in Chief",
+      "company": "Investigate Midwest",
+      "location": "Remote - US",
+      "location_type": "remote",
+      "posted_date": "2026-07-03",
+      "salary": "Starting at $88,000/year",
+      "url": "https://investigatemidwest.org/jobs-2/",
+      "description": "Leads Investigate Midwest's newsroom, an independent nonprofit investigative journalism outlet covering agriculture, food systems, and rural policy. Supervises reporters and editorial staff, copy-edits and shapes major investigative stories, sets editorial strategy and standards, and reports directly to the executive director. Fully remote with strong preference for candidates based in the Midwest/Central U.S., but open to remote candidates based anywhere in the U.S. Full-time, 40 hours/week, with medical, dental, and vision benefits plus 21 days PTO and holidays. Application deadline August 1, 2026.",
+      "key_skills": [
+        "7+ years investigative or data journalism experience",
+        "3+ years coaching/editing reporters",
+        "3+ years managing teams or projects",
+        "AP Style",
+        "Python/R a plus",
+        "journalism or communications degree"
+      ],
+      "match_score": 55,
       "match_reasons": [
         "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
         "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation",
-        "Health communications crossover with UB RIED research work"
-      ],
-      "cover_letter_opener": "Dear Buffalo Philharmonic Orchestra Hiring Team,\n\nI'm writing to express my interest in the Communications & Publications Associate role at Buffalo Philharmonic Orchestra. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "buffalo-philharmonic-orchestra-communications-publications-associate",
-      "source": "www.indeed.com",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Graphic Design & Digital Communications Manager",
-      "company": "WE ACT for Environmental Justice",
-      "location": "New York, NY (1854 Amsterdam Avenue, Harlem)",
-      "location_type": "Hybrid",
-      "posted_date": "2026-07-09",
-      "salary": "$75,000 - $85,000/year",
-      "url": "https://www.idealist.org/en/nonprofit-jobs-new-york",
-      "description": "Designs communications materials for environmental justice advocacy, including press releases, social media, and multimedia content. Manages WordPress CMS and supports SEO/SEM efforts. Full-time role with medical/dental/vision, FSA, life insurance, transit, and retirement benefits.",
-      "key_skills": [
-        "Graphic design",
-        "WordPress",
-        "HTML/CSS",
-        "SEO/SEM",
-        "Adobe Creative Suite",
-        "Email marketing (MailChimp/Constant Contact)",
-        "Video editing"
-      ],
-      "match_score": 75,
-      "match_reasons": [
-        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
-        "She grew RIED LinkedIn 226,500% — a clear social media strength"
-      ],
-      "cover_letter_opener": "Dear WE ACT for Environmental Justice Hiring Team,\n\nI'm writing to express my interest in the Graphic Design & Digital Communications Manager role at WE ACT for Environmental Justice. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of growing audiences with disciplined social content. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "we-act-for-environmental-justice-graphic-design-digital-communications-manager",
-      "source": "www.idealist.org",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Communications Manager",
-      "company": "Jewish Community Project Downtown (JCP)",
-      "location": "New York, NY (146 Duane St, Manhattan)",
-      "location_type": "Hybrid (3 days office / 2 remote)",
-      "posted_date": "2026-07-09",
-      "salary": "$70,000 - $75,000/year",
-      "url": "https://www.idealist.org/en/nonprofit-job/6445850817f14aecaa4cf07874298fff-communications-manager-jewish-community-project-downtown-new-york",
-      "description": "Oversees JCP-wide communications and marketing, manages digital channels (website, email, social, Google Ads), produces content and graphics/reels, manages CRM (HubSpot) and email campaigns, and maintains brand voice. Reports to the Director of Advancement and Community Engagement. Full-time, salaried, exempt role with medical/dental/vision, PTO, retirement, FSA, and transit benefits.",
-      "key_skills": [
-        "Writing/copyediting",
-        "Social media management",
-        "Canva/Adobe Creative Suite",
-        "CRM (HubSpot)",
-        "Email marketing",
-        "Project management",
-        "CMS",
-        "Google Ads"
-      ],
-      "match_score": 74,
-      "match_reasons": [
-        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
-        "She grew RIED LinkedIn 226,500% — a clear social media strength"
-      ],
-      "cover_letter_opener": "Dear Jewish Community Project Downtown (JCP) Hiring Team,\n\nI'm writing to express my interest in the Communications Manager role at Jewish Community Project Downtown (JCP). In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of crafting copy that earns attention and trust. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "jewish-community-project-downtown-jcp-communications-manager",
-      "source": "www.idealist.org",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Manager, SEO Content Marketing",
-      "company": "Growth Marketing Pro",
-      "location": "Remote - US",
-      "location_type": "remote",
-      "posted_date": "2026-07-08",
-      "salary": "Not disclosed",
-      "url": "https://builtin.com/job/manager-seo-content-marketing/8977619",
-      "description": "Growth Marketing Pro, a hyper-growth SEO, GEO, and paid marketing agency, is hiring a full-time Manager, SEO Content Marketing to oversee SEO and content projects for clients. Responsibilities include content updates, outlining, editing, publishing, keyword research, metadata writing, content strategy development, and managing GEO (generative engine optimization) engagements. This is a fully remote position with healthcare benefits (including dental) and unlimited PTO.",
-      "key_skills": [
-        "3+ years content and SEO/GEO experience",
-        "Google Search Console, Ahrefs/Semrush",
-        "HubSpot CRM",
-        "AI platforms and automation tools",
-        "Content strategy and editing",
-        "Project management",
-        "Brand voice adaptation"
-      ],
-      "match_score": 73,
-      "match_reasons": [
-        "Content marketing aligns with her current RIED work (Research Matters newsletter, 7-9% CTOR)",
-        "Fully remote — matches her openness to remote work",
-        "Health communications crossover with UB RIED research work"
-      ],
-      "cover_letter_opener": "Dear Growth Marketing Pro Hiring Team,\n\nI'm writing to express my interest in the Manager, SEO Content Marketing role at Growth Marketing Pro. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "growth-marketing-pro-manager-seo-content-marketing",
-      "source": "builtin.com",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Manager, Communications (Social Media)",
-      "company": "Foundation for the Global Compact (UN Global Compact)",
-      "location": "New York, NY",
-      "location_type": "Hybrid",
-      "posted_date": "2026-07-09",
-      "salary": "$66,000 - $80,000/year",
-      "url": "https://www.idealist.org/en/jobs?q=communications&location=New%20York%2C%20NY%2C%20USA",
-      "description": "Leads social media strategy and execution for the UN Global Compact's communications team, supporting global sustainability and corporate responsibility initiatives. Full-time role with standard nonprofit benefits.",
-      "key_skills": [
-        "Social media strategy",
-        "Content creation",
-        "Copywriting",
-        "Analytics/reporting",
-        "Brand messaging"
-      ],
-      "match_score": 71,
-      "match_reasons": [
-        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
-        "Copy-focused — pairs with her Substack and The Riff writing portfolio",
-        "She grew RIED LinkedIn 226,500% — a clear social media strength",
+        "Maps to her reporting background at Daily Caller News Foundation",
         "Mission-driven fit — UB RIED research-comms experience translates to nonprofit"
       ],
-      "cover_letter_opener": "Dear Foundation for the Global Compact (UN Global Compact) Hiring Team,\n\nI'm writing to express my interest in the Manager, Communications (Social Media) role at Foundation for the Global Compact (UN Global Compact). In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of mission-driven communications and donor-facing storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "foundation-for-the-global-compact-un-global-compact-manager-communications-socia",
-      "source": "www.idealist.org",
+      "cover_letter_opener": "Dear Investigate Midwest Hiring Team,\n\nI'm writing to express my interest in the Editor in Chief role at Investigate Midwest. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of mission-driven communications and donor-facing storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "investigate-midwest-editor-in-chief",
+      "source": "investigatemidwest.org",
       "status": "open",
       "benefits_highlights": [
         "Healthcare benefits (full-time)"
@@ -1801,246 +2020,31 @@
       "is_remote": false
     },
     {
-      "title": "Marketing Manager, Communications",
-      "company": "VelocityEHS",
-      "location": "Remote - US",
-      "location_type": "remote",
-      "posted_date": "2026-07-08",
-      "salary": "$92,550 - $125,500 USD annually",
-      "url": "https://www.builtinsf.com/job/marketing-manager-communications/10008351",
-      "description": "VelocityEHS is hiring a Marketing Manager, Communications to lead day-to-day execution of social media, PR, and internal communications. Responsibilities include managing community engagement, social listening, content publishing, KPI tracking, byline and award submissions, employee advocacy, and executive updates. The role collaborates with cross-functional teams and the company's PR agency, maintains brand consistency, and introduces AI-driven communications efficiencies. Full-time with a comprehensive benefits package including medical/dental coverage, retirement with employer match, and parental leave.",
-      "key_skills": [
-        "5+ years B2B SaaS marketing",
-        "Social media strategy and PR",
-        "Internal communications",
-        "Project management",
-        "Social media tools/automation",
-        "Analytical mindset",
-        "Written/verbal communication"
-      ],
-      "match_score": 70,
-      "match_reasons": [
-        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
-        "She grew RIED LinkedIn 226,500% — a clear social media strength"
-      ],
-      "cover_letter_opener": "Dear VelocityEHS Hiring Team,\n\nI'm writing to express my interest in the Marketing Manager, Communications role at VelocityEHS. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of growing audiences with disciplined social content. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "velocityehs-marketing-manager-communications",
-      "source": "www.builtinsf.com",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Content Marketing Manager",
-      "company": "LiveKit",
-      "location": "Remote - US",
-      "location_type": "remote",
-      "posted_date": "2026-07-07",
-      "salary": "$150,000 - $200,000 annually",
-      "url": "https://builtin.com/job/content-marketing-manager/9464854",
-      "description": "LiveKit, which builds infrastructure for the voice-driven era of computing, is hiring its founding Content Marketing Manager. The role involves shipping deeply researched guides, authoring pillar pages establishing authority in the voice AI infrastructure category, developing opinionated thought leadership, building competitive content programs, and partnering with Sales and BD on enablement assets. Full-time, fully remote in the U.S., with competitive salary and equity, health/dental/vision benefits, and a flexible vacation policy.",
-      "key_skills": [
-        "Content marketing at a high-growth startup",
-        "Experience with technical/developer audiences",
-        "Strong portfolio of opinionated writing",
-        "Collaboration with engineers and founders",
-        "AI-native or voice AI/WebRTC familiarity (nice to have)"
-      ],
-      "match_score": 70,
-      "match_reasons": [
-        "Content marketing aligns with her current RIED work (Research Matters newsletter, 7-9% CTOR)",
-        "Fully remote — matches her openness to remote work",
-        "Health communications crossover with UB RIED research work"
-      ],
-      "cover_letter_opener": "Dear LiveKit Hiring Team,\n\nI'm writing to express my interest in the Content Marketing Manager role at LiveKit. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "livekit-content-marketing-manager",
-      "source": "builtin.com",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Performance Marketing Analyst (Marketing Analyst)",
-      "company": "Delaware North",
-      "location": "Buffalo, NY",
-      "location_type": "in-person",
-      "posted_date": "2026-07-06",
-      "salary": "$66,800 - $84,100 per year",
-      "url": "https://careers.delawarenorth.com/job/23038874/marketing-analyst-buffalo-ny",
-      "description": "Delaware North Parks and Resorts is hiring a Marketing Analyst to join the team at global headquarters in Buffalo, NY. Responsible for supporting the marketing team by providing actionable insights and data-driven recommendations to guide marketing efforts. Full-time role based at Buffalo HQ (remote candidates in NYC/Boston may be considered, but Buffalo location preferred/primary). Benefits include health/dental/vision insurance, 401(k) with up to 4% match, paid time off and holidays, performance bonuses, and paid parental leave.",
-      "key_skills": [
-        "marketing analytics",
-        "data-driven insights",
-        "performance marketing",
-        "reporting",
-        "statistics",
-        "marketing strategy support"
-      ],
-      "match_score": 61,
-      "match_reasons": [
-        "Fully remote — matches her openness to remote work",
-        "Health communications crossover with UB RIED research work"
-      ],
-      "cover_letter_opener": "Dear Delaware North Hiring Team,\n\nI'm writing to express my interest in the Performance Marketing Analyst (Marketing Analyst) role at Delaware North. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "delaware-north-performance-marketing-analyst-marketing-analyst",
-      "source": "careers.delawarenorth.com",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Director of Communications & Fundraising",
-      "company": "UHAB (Urban Homesteading Assistance Board)",
-      "location": "New York, NY",
-      "location_type": "Hybrid",
+      "title": "Chief Creative Officer",
+      "company": "Mansueto Ventures (Inc. & Fast Company)",
+      "location": "New York City, NY, USA",
+      "location_type": "Hybrid (onsite Tuesday–Thursday)",
       "posted_date": "2026-07-09",
-      "salary": "$90,000 - $100,000/year",
-      "url": "https://www.idealist.org/en/jobs?q=UHAB&location=New%20York%2C%20NY%2C%20USA",
-      "description": "Leads communications and fundraising strategy for UHAB, a nonprofit supporting affordable housing and cooperative ownership in NYC. Full-time role combining strategic communications leadership with development/fundraising responsibilities.",
+      "salary": "$245,000 - $275,000/yr + bonus eligible",
+      "url": "https://www.mediabistro.com/jobs/3541671461-chief-creative-officer",
+      "description": "Mansueto Ventures, parent of Inc. and Fast Company, is seeking a visionary Chief Creative Officer to define and drive the creative direction of its editorial and publishing properties. Reporting to the CEO, this role sets the vision for visual identity and user experience across both brands, architecting systems that enable innovative, distinctive content and products across all platforms. Full-time, based in New York with onsite presence at least 3 days/week (Tue-Thu).",
       "key_skills": [
-        "Communications strategy",
-        "Fundraising/development",
-        "Donor relations",
-        "Writing",
-        "Public relations"
-      ],
-      "match_score": 56,
-      "match_reasons": [
-        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
-        "Holds the Ragan Communications PR Certificate (2025)",
-        "Mission-driven fit — UB RIED research-comms experience translates to nonprofit"
-      ],
-      "cover_letter_opener": "Dear UHAB (Urban Homesteading Assistance Board) Hiring Team,\n\nI'm writing to express my interest in the Director of Communications & Fundraising role at UHAB (Urban Homesteading Assistance Board). In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of mission-driven communications and donor-facing storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "uhab-urban-homesteading-assistance-board-director-of-communications-fundraising",
-      "source": "www.idealist.org",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Director, Content & Communications Strategy, D/Cipher",
-      "company": "People Inc. (parent of Dotdash Meredith, PEOPLE, Entertainment Weekly)",
-      "location": "New York, NY",
-      "location_type": "Hybrid (3x/week in-office, up to 2 days remote)",
-      "posted_date": "2026-07-07",
-      "salary": "$115,000 - $125,000/year (NY); $110,000 - $120,000 (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/director-content-communications-strategy-d-cipher-at-people-inc-4436297033",
-      "description": "Leads executive thought leadership strategy, industry communications, award submissions, social strategy, and integrated marketing initiatives for D/Cipher, People Inc.'s AdTech and intent-targeting platform. Reports to the SVP, Marketing & Communications, D/Cipher. Requires a Bachelor's degree and 10+ years of marketing/communications experience, including 5+ years in AdTech, digital media, or related industries.",
-      "key_skills": [
-        "Content strategy",
-        "Executive communications",
-        "Public relations",
-        "Thought leadership",
-        "Social media strategy",
-        "Integrated marketing campaigns",
-        "AdTech/digital media knowledge"
-      ],
-      "match_score": 56,
-      "match_reasons": [
-        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
-        "She grew RIED LinkedIn 226,500% — a clear social media strength",
-        "Holds the Ragan Communications PR Certificate (2025)"
-      ],
-      "cover_letter_opener": "Dear People Inc. (parent of Dotdash Meredith, PEOPLE, Entertainment Weekly) Hiring Team,\n\nI'm writing to express my interest in the Director, Content & Communications Strategy, D/Cipher role at People Inc. (parent of Dotdash Meredith, PEOPLE, Entertainment Weekly). In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of growing audiences with disciplined social content. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "people-inc-parent-of-dotdash-meredith-people-entertainment-weekly-director-conte",
-      "source": "www.linkedin.com",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Director, Public Relations",
-      "company": "Automation Anywhere",
-      "location": "Remote - US",
-      "location_type": "remote",
-      "posted_date": "2026-07-08",
-      "salary": "$210,000 - $240,000 per year",
-      "url": "https://builtin.com/job/director-public-relations/6741038",
-      "description": "Automation Anywhere, a leader in Agentic Process Automation (APA), is hiring a Director, Public Relations to manage PR strategies, agency relationships, product launches, and media engagement. The role partners with the US PR agency to set campaign goals, leads communications around major product launches, collaborates cross-functionally with marketing and product teams, manages journalist and influencer relationships, and prepares executives for media engagements. Reports to VP, Public Relations. Fully remote role able to work within any U.S. time zone. Full-time with benefits including variety of health care and well-being benefits, paid family/parental leave, unlimited PTO, and equity.",
-      "key_skills": [
-        "12+ years PR experience",
-        "Enterprise tech, B2B SaaS, or AI/automation background",
-        "PR agency management",
-        "Media relations and strategic storytelling",
+        "Creative leadership",
+        "Brand identity",
+        "Editorial design",
+        "Digital/UX design",
         "Cross-functional collaboration",
-        "Product launch communications"
+        "AI-assisted design workflows",
+        "Audience insights and engagement metrics",
+        "Team building and scaling"
       ],
-      "match_score": 56,
+      "match_score": 50,
       "match_reasons": [
-        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
-        "Holds the Ragan Communications PR Certificate (2025)",
-        "Fully remote — matches her openness to remote work",
-        "Health communications crossover with UB RIED research work"
+        "Direct editorial fit — she was Junior Editor at Daily Caller News Foundation"
       ],
-      "cover_letter_opener": "Dear Automation Anywhere Hiring Team,\n\nI'm writing to express my interest in the Director, Public Relations role at Automation Anywhere. In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of translating complex research into clear, human storytelling. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "automation-anywhere-director-public-relations",
-      "source": "builtin.com",
-      "status": "open",
-      "benefits_highlights": [
-        "Healthcare benefits (full-time)"
-      ],
-      "salary_min": 0,
-      "salary_max": 0,
-      "is_wny": false,
-      "is_nyc": false,
-      "is_remote": false
-    },
-    {
-      "title": "Associate Director, Communications",
-      "company": "Jewish Association Serving the Aging (JASA)",
-      "location": "New York, NY",
-      "location_type": "Hybrid (at least 3 days/week in office or field)",
-      "posted_date": "2026-07-08",
-      "salary": "Up to $85,000/year",
-      "url": "https://www.idealist.org/en/nonprofit-job/b0a282f887ed44f586837b7c4fdc448e-associate-director-communications-jewish-association-serving-the-aging-new-york",
-      "description": "Leads JASA's communications strategy, elevates the organization's brand, and oversees agency-wide messaging highlighting the impact of JASA's programs for older adults. Reports to the Chief External Relations Officer. Oversees media relations, content development, digital communications, publications, and social media strategy, and supervises a communications team. Requires a Bachelor's degree and 6-10 years of experience in strategic communications, marketing, or PR.",
-      "key_skills": [
-        "Strategic communications",
-        "Media relations",
-        "Team management",
-        "Content development",
-        "Digital communications",
-        "Social media strategy",
-        "Publications"
-      ],
-      "match_score": 52,
-      "match_reasons": [
-        "Comms title aligns with her current UB RIED Communications & Marketing Coordinator role",
-        "She grew RIED LinkedIn 226,500% — a clear social media strength"
-      ],
-      "cover_letter_opener": "Dear Jewish Association Serving the Aging (JASA) Hiring Team,\n\nI'm writing to express my interest in the Associate Director, Communications role at Jewish Association Serving the Aging (JASA). In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of growing audiences with disciplined social content. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
-      "id": "jewish-association-serving-the-aging-jasa-associate-director-communications",
-      "source": "www.idealist.org",
+      "cover_letter_opener": "Dear Mansueto Ventures (Inc. & Fast Company) Hiring Team,\n\nI'm writing to express my interest in the Chief Creative Officer role at Mansueto Ventures (Inc. & Fast Company). In my current work as Communications & Marketing Coordinator at the University at Buffalo's RIED department — and earlier as a Junior Editor at The Daily Caller News Foundation — I've made a habit of editing for clarity, voice, and pace. I'd welcome the chance to bring that same craft to your team and to live my tagline: seek, speak, and write the truth.",
+      "id": "mansueto-ventures-inc-fast-company-chief-creative-officer",
+      "source": "www.mediabistro.com",
       "status": "open",
       "benefits_highlights": [
         "Healthcare benefits (full-time)"
